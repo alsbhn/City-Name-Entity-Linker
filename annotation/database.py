@@ -25,6 +25,17 @@ def import_data():
         {"city": row['city'], "url": str(row['url']), "text": str(row['text']),"title": str(row['title']),"dataset": str(row['dataset'])})
     db.commit()
 
+def load_data(x, news, engine):
+    s = news.select(news.c.id == x)
+    conn = engine.connect()
+    result = conn.execute(s)
+    for row in result:
+        data = row
+    (id,city,url,text,title,dataset,labels,annot_city)=data
+    data = {'id':id,'city':city,'url':url,'text':text,'title':title,'dataset':dataset,'labels':labels,'annot_city':annot_city}
+    conn.close()
+    return data
+
 def update_data(x,upd, news, engine):
     stmt = news.update().where(news.c.id == x).values(labels= upd)
     conn = engine.connect()
@@ -36,6 +47,22 @@ def update_data_city(x,upd, news, engine):
     conn = engine.connect()
     conn.execute(stmt)
     conn.close()
+
+def insert_data(url, text, title, dataset_type, labels, annot_city, news, engine):
+    stmt = news.insert().values(url = url, text= text, title = title, dataset=dataset_type, labels=labels,annot_city=annot_city )
+    conn = engine.connect()
+    conn.execute(stmt)
+    conn.close()
+
+def get_urls (news, engine):
+    stmt = select([news.c.url])
+    conn = engine.connect()
+    result = conn.execute(stmt)
+    urls=[]
+    for url in result:
+        urls.append(url[0])
+    conn.close()
+    return urls
 
 def tags_read():
     df = pd.read_csv('annotation/tags.csv')
