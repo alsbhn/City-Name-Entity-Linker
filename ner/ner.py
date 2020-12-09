@@ -30,10 +30,14 @@ print('{:>5,} training samples'.format(train_size))
 print('{:>5,} validation samples'.format(val_size))
 
 # Prepare for trainig
+epochs = 10
+
 train_dataloader, validation_dataloader = build_data_loader(train_dataset, val_dataset, batch_size = 8)
 model = build_model(num_labels = 2)
 optimizer = build_optimizer(model, lr = 2e-5,eps = 1e-8)
-scheduler = build_scheduler (train_dataloader, optimizer , epochs = 15)
+scheduler = build_scheduler (train_dataloader, optimizer , epochs)
+
+model, training_stats = train(model, train_dataloader, validation_dataloader, optimizer, scheduler, epochs)
 
 
 
