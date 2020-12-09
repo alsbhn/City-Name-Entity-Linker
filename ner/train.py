@@ -8,7 +8,7 @@ import numpy as np
 import time
 import datetime
 
-def build_data_loader(batch_size = 8):
+def build_data_loader(train_dataset, val_dataset, batch_size = 8):
   train_dataloader = DataLoader(train_dataset, sampler = RandomSampler(train_dataset), batch_size = batch_size)
   validation_dataloader = DataLoader(val_dataset, sampler = SequentialSampler(val_dataset), batch_size = batch_size)
   return train_dataloader, validation_dataloader
@@ -20,7 +20,7 @@ def build_model(num_labels = 2):
   model.cuda()
   return model
 
-def build_optimizer(lr = 2e-5,eps = 1e-8):
+def build_optimizer(model, lr = 2e-5,eps = 1e-8):
   optimizer = AdamW(model.parameters(), lr = lr, eps = eps)
   return optimizer
 

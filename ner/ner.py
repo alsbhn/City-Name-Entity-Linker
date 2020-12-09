@@ -4,6 +4,7 @@ from sklearn.utils import shuffle
 from transformers import BertTokenizer
 from tokenizer import split_train_test, tokenize_dataset
 from torch.utils.data import TensorDataset, random_split
+from train import *
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
 
@@ -29,9 +30,9 @@ print('{:>5,} training samples'.format(train_size))
 print('{:>5,} validation samples'.format(val_size))
 
 # Prepare for trainig
-train_dataloader, validation_dataloader = build_data_loader(batch_size = 8)
+train_dataloader, validation_dataloader = build_data_loader(train_dataset, val_dataset, batch_size = 8)
 model = build_model(num_labels = 2)
-optimizer = build_optimizer(lr = 2e-5,eps = 1e-8)
+optimizer = build_optimizer(model, lr = 2e-5,eps = 1e-8)
 scheduler = build_scheduler (train_dataloader, optimizer , epochs = 15)
 
 
