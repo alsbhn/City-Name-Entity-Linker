@@ -1,0 +1,797 @@
+id,city,url,text,title,dataset,labels,annot_city
+8709,,https://gothamist.com/news/coronavirus-updates-new-york-citys-virus-positivity-hits-highest-level-6-months,"This is our daily update of breaking COVID-19 news for Thursday, December 3rd, 2020. Previous daily updates can be found here, and up-to-date statistics are here.
+
+New York City is in Phase 4 of reopening now, which includes zoos, botanical gardens, museums, and gyms, as well as 25% indoor dining. Schools are shut down. Certain parts of Brooklyn and Staten Island under a zoned shutdown. Get answers to questions you may have with our ""Ask An Epidemiologist"" series, or learn more aboutNYC COVID-19 testing options with our explainer. Here are some local and state hotlines for more information: NYC: 311; NY State Hotline: 888-364-3065; NJ State Hotline: 800-222-1222.
+
+Here's the latest:
+
+Coronavirus infections in New York City are continuing to climb to worrisome levels not seen in months as health experts warn about difficult winter ahead.
+
+Mayor Bill de Blasio on Thursday said that the city's seven-day average positivity rate had risen to 5.2%, the highest it has been in six months.
+
+The city has now surpassed two of three warning markers that the mayor initially announced in August as a way of knowing whether the virus had gotten out of control.
+
+Officials determined a 5% threshold for the positivity rate, and 550 for the seven-day average number of new cases. The city blew past the latter number in late October. Average daily cases are now closing in on 2,000.
+
+In another bad sign, 174 patients were recently admitted to hospitals for COVID-19 or flu-like symptoms. The warning marker for that indicator is 200.
+
+""What we are now seeing more than we have seen in a long long time unfortunately is these three indicators moving in the wrong direction,"" the mayor said during his morning press conference. ""It’s quite clear at this point that this second wave is right upon us.""
+
+Governor Andrew Cuomo has ordered hospitals to draw up emergency plans and expand capacity. While he also expressed concern, de Blasio said hospitals were nonetheless better equipped to handle a surge of patients than they were in the spring.
+
+This week, city officials began urging New Yorkers over 65 and those with underlying conditions to stay at home.
+
+Health experts are bracing for the worst across the country.
+
+Dr. Robert Redfield, the director of the Centers for Disease Control and Prevention, said Wednesday that the winter months could be “the most difficult in the public health history of this nation.""
+
+Speaking at a U.S. Chamber of Commerce event, he said deaths had been rising. The country is now recording between 1,500 and 2,500 deaths everyday.
+
+He said total fatalities, which are now around 272,000, could approach 450,000 before February.
+
+Although the first vaccines are expected to arrive in the next few weeks, Redfield warned that precautionary measures would still be necessary for many months and predicted that large gatherings would not officially resume until the fall of 2021.",Coronavirus Updates: New York City's Virus Positivity Rate Hits Highest Level In 6 Months,['manual_google_by_location'],"['health', 'public_space']",['New York']
+8710,,https://nypost.com/2020/12/03/nycs-homeless-student-population-could-soon-skyrocket/,"Sign up for our special edition newsletter to get a daily update on the coronavirus pandemic.
+
+The city’s homeless student population dipped slightly last year — but advocates warn that the numbers may be skewed due to the coronavirus and could soon skyrocket.
+
+According to Advocates for Children of New York, 111,000 children were identified as homeless during the 2019-2020 academic year — a dip of 2.2 percent from the prior term.
+
+Of those, about 32,700 lived in homeless shelters while roughly 73,000 were “doubled up” in temporary housing situations with friends or family, according to ACNY.
+
+In the Bronx, 1 in 6 students were homeless last year, the organization reported, citing state data. The city’s homeless students are 85 percent African American and Hispanic, they added.
+
+ACNY cautioned that the slight decrease could be attributable to the difficulty in tracking homeless kids because of technology gaps or lack of Department of Education contact with families.
+
+“The vast scale of student homelessness in New York City demands urgent attention,” said Kim Sweet, executive director of Advocates for Children.
+
+Sweet warned that the city’s already staggering number of homeless students — which is higher than the entire public school population of Vermont — is likely to worsen.
+
+The impact of the coronavirus on the city’s economy is likely to exacerbate homelessness — especially when eviction moratoriums are lifted, she said.
+
+“The City must act now to put more support in place for students who are homeless,” Sweet said.
+
+The organization stressed that the damage wrought by youth homelessness is being magnified this year due to the introduction of remote learning.
+
+Many kids in shelters do not have reliable devices or Wi-Fi availability and are struggling badly as a result, the group said.
+
+For homeless kids, remote learning “may mean trying to complete assignments on a smartphone in the middle of a noisy and overcrowded room,” ACNY said.
+
+The group urged the Department of Education and City Hall to improve its provision of technology and to use attendance data to target kids who are slipping out of sight.
+
+The DOE should also prioritize homeless students for full-time classroom instruction when possible, ACNY said.
+
+“Learning from home is much harder when you don’t have a permanent home,” Sweet said.",NYC’s homeless student population could skyrocket due to COVID-19,['manual_google_by_location'],['homelessness'],['New York']
+8711,,https://www.nytimes.com/2020/12/03/insider/coronavirus-queens-reporting.html,"Times Insider explains who we are and what we do, and delivers behind-the-scenes insights into how our journalism comes together.
+
+More than 600 miles of subway tracks carve through the streets of New York City, but the 7 train, which runs along Queens’s bustling Roosevelt Avenue, glides above perhaps the most ethnically diverse urban area in the world.
+
+Hundreds of thousands of New Yorkers live between the line’s 69th Street to 103rd Street stops, which serve five neighborhoods — Corona, East Elmhurst, Elmhurst, Jackson Heights and Woodside. The area has long been a setting for ambitious New York Times storytelling, allowing reporters to capture the borough’s range of cuisines, street life, aesthetics, living conditions and dreams.
+
+“Queens is so endlessly fascinating because it’s really the heart and soul of the city’s ever-changing diversity,” said Dan Barry, a reporter who was born in Jackson Heights. “Dozens of languages being spoken — you know, every time I talk to a demographer the number goes up; it’s 160 languages spoken, 180 languages spoken.”",A Painstaking Portrait of Some of New York’s Darkest Days,['manual_google_by_location'],['not_sure'],['New York']
+8712,,https://secretnyc.co/private-heated-outdoor-dining-oiji/,"Cozy into your own private outdoor room and warm up with some of NYC’s best Korean food!
+
+This Korean restaurant located on the LES is redefining outdoor dining. Co-chefs and co-owners Brian Kim and Tae Kyung Ku, both born and raised in Korea, created Oiji with the vision “to bring a new perspective on Korean cooking to New York City.”
+
+As the weather continues to turn colder, Oiji has designed and constructed heated outdoor private dining rooms for customers to safely enjoy. Structures line the front of their building creating an outdoor dining experience sure to keep people distanced!
+
+Each private room includes 3,000-watt dual heaters and is completely separated from the rest of the rooms in order to avoid air flow between tables. For added circulation, each room has electric exhaust fans. Proper sanitations are followed during the restaurant’s 15 minute hold between seating new parties.
+
+The rooms were designed by Chef and Owner Brian Kim, who wanted to safely continue offering dining options for New Yorkers during these troubling times. Guest are provided with service bells whenever they need a staff member, but otherwise are given total privacy during the entire dining experience.
+
+The menu offers delicious Korean delicacies with dishes ranging from a Waygu Wrap, Oxtail, Long Island Duckling, Scallops “Hwe,” and back by popular request, their famous Truffle Seafood Broth with Crispy Rice. You can even try their Oiji Bowl made with sea urchin, sweet shrimp, and seaweed rice.
+
+For sides choose from Kimchi or Lotus Leaf Wrapped Sticky Rice. For dessert treat yourself to Honey Butter Chips with Vanilla Ice Cream. With every dish comes a beautiful presentation and sophisticated plating. Each order truly looks as good as it tastes!
+
+As for cocktails in the cold, enjoy their newest hot creations, “Warm Up” made with bourbon, hot apple cider and spice mix, or “Fireside Chat” consisting of Yangchon Chung-Ju, Soo-Jung-gwa (a Korean spiced drink), and Golden Barley Soju from KMS Imports.
+
+The restaurant now even offers catering services right to your home; can you get more private than that?! Either way you choose to dine with Oiji, you’re guaranteed an incredible experience. You can make reservations online or over the phone.
+
+Operating hours:
+
+Monday – Thursday: 6pm – 10:30pm
+
+Friday – Saturday: 6pm – 11pm
+
+Sunday: 5pm – 10pm
+
+Located: 119 1st Avenue, New York
+
+featured image source: Courtesy of Brie Sosnov
+
+For more winter dining: This Rooftop With One Of The Best Manhattan Skyline Views Just Got A Wonderful Winter Makeover","Enjoy Your Own Private, Heated Outdoor Dining Room At This NYC Korean Restaurant",['manual_google_by_location'],"['restaurant', 'indirect_city_relation']",['New York']
+8713,,https://nypost.com/2020/12/03/ny-small-businesses-cant-handle-minimum-wage-hike-right-now/,"Pandemic restrictions have forced many employers to furlough workers, cut staffs and even close entirely. And many of those remaining now face the prospect of having to pay a higher minimum wage as of Jan. 1 — which will likely kill more jobs.
+
+But Gov. Andrew Cuomo can delay it.
+
+“The last thing New York’s economy needs is a state-mandated disincentive to put people back to work,” notes the Empire Center’s E.J. McMahon. This sure isn’t the economic climate that lawmakers expected.
+
+The minimum hourly wage, already $15 in the city, is to rise from $13 to $14 (7.7 percent) in Long Island and Westchester, and from $11.80 to $12.50 (5.9 percent) in the rest of the state. That’s bigger than most employers’ profit margins.
+
+As McMahon points out, the state Division of the Budget can recommend a “temporary suspension or delay” of the hikes based on an analysis of regional economies. And unemployment and business closures are up in every region; every county and municipal government has falling tax revenues.
+
+The numbers of jobless statewide “still remain over 1 million,” state Comptroller Tom DiNapoli revealed this week. Nearly a third of the nearly 1.1 million net jobs lost February-October, he noted, were in the leisure and hospitality sector — which will suffer again in the second virus wave.
+
+As he’s also noted, “New York’s small businesses reported greater overall negative impacts from the pandemic, along with greater expectations of such impacts lingering for months to come, than most other states.” Nearly a third expect they’ll need to obtain financial assistance or additional capital in the next six months. Don’t hit them with a new cost instead.
+
+It shouldn’t be too hard for the gov and his budget chief, Robert Mujica, to conclude that a wage-hike mandate now would be a deadly blow to small businesses — killing the jobs of those it aims to help.",NY small businesses can’t handle another minimum-wage hike right now,['manual_google_by_location'],['employment'],['New York']
+8714,,https://www.nytimes.com/2020/12/03/realestate/housing-market-near-nyc.html,"In Jerico, N.Y.: a four-bedroom, three-and-a-half-bath, 3,333-square-foot, colonial-style house, with an eat-in kitchen with high-end appliances, a spacious family room with a high ceiling and a gas fireplace, a main suite with two custom walk-in closets, and a finished basement, on a quarter acre.
+
+In Fairfield, Conn.: a five-bedroom, three-and-a-half-bath, 3,441-square-foot home, with a fireplace in the living room, a newer kitchen with quartz counters, a farm sink and a large pantry, an office with built-ins, a main suite with a sitting room and walk-in closet, a finished basement, and an attached two-car garage, on 1.06 acres in the Southport section.",Homes for Sale in New York and Connecticut,['manual_google_by_location'],['seems_not_related_to_city'],['New York']
+8715,,https://www.ny1.com/nyc/all-boroughs/news/2020/12/03/this-is-what-tourism-looks-like-in-nyc-right-now,"Martin Blaine’s 10-year-old son is a big ""Hamilton"" fan and knows all the songs. Then he watched the animated musical series ""Central Park,"" and New York City started to become a major theme in their Ohio household.
+
+The family of three stayed home most of the year, except for a trip to Arkansas for a family funeral. But with Martin and his wife’s anniversary in July and his wife’s birthday in September, they decided they could swing a short fall trip to celebrate the occasions without their son missing too much school.
+
+“We were like, ‘Why don't we just go to New York?’” he said. “And then we were, like, ‘Well why would we go to New York? There's nothing to do in New York.’ But we looked around and there were still lots of things to do.”
+
+One of those things was Broadway Up Close, a tour of Broadway’s theaters detailing the history and inner workings of everything it takes to put on a big show.
+
+Tim Dolan, the founder of Broadway Up Close, has been bustling harder than he has since he founded the company in 2010, he said. His tour company and gift shop rely on tourists attending New York City’s theaters. And in 2020, that’s not happening.
+
+On March 12, all 41 of New York City’s theaters closed their doors. They’re not expected to open back up until June 1, 2021 and, even then, there’s still uncertainty around which theaters will open at that time. With the reopening date pushed back multiple times thus far, many people in the industry think the reopening is more likely to take place closer to September of 2021.
+
+This means that people who work in the tourism industry, like Dolan, have had to completely revamp the way their businesses operate in order to stay afloat.
+
+In 2019, NYC tourism hit a record high—66.6 million individual trips with about $47.4 billion generated in direct spending for the city, according to the 2019 NYC & Company annual report. But by the end of 2020, tourism is expected to drop by about 66% to 22.9 million visitors, according to NYC & Co. It’s not expected to reach pre-pandemic numbers until 2025.
+
+Before COVID-19 hit, the majority of Dolan’s profits came from the six in-person tours his company offered. Five of these were walking exterior theater tours and one tour included a visit inside the Hudson Theater.
+
+“When the shutdown started, I refunded more money than I've ever refunded in my entire life,” Dolan said. “You feel the life slipping through your fingers.”
+
+Dolan, an actor by trade, started his company understanding that working in the industry often means relying on an unpredictable stream of income. It’s why most of his staff are young actors themselves. But when COVID-19 hit, he had to furlough his 22 employees. Now the business operates with a staff of two—Dolan and a graphic designer who freelances for him.
+
+In April 2019, he opened a brick and mortar shop across the street from the Minskoff Theatre, home to ""The Lion King"" musical. In the shop, people could buy typical Broadway-themed souvenirs, like t-shirts, hoodies, tote bags and keychains. He’s been able to hold on to the store despite its closed doors with support from the Times Square Alliance, the site's owner.
+
+Not only did he take the entire gift shop online for the first time, but he also had to reimagine the type of merchandise he could sell. Most people aren’t interested in buying souvenirs for trips they haven’t taken.
+
+“We have no tourists. We have no Broadway shows. We're not making any new New York memories or theater memories, specifically,” Dolan said, describing his thought process. “Let's cherish the ones that we've already created.”
+
+That’s when he came up with the idea to do custom ticket stub souvenirs. Customers can input information from a ticket stub, like the name of the theater, the date and time, cost, and seat number, and Dolan creates an engraved ticket stub made of cherry wood.
+
+“I'm making all of that literally in my apartment,” he said about the new types of merchandise he’s selling, including handmade wooden picture frames and ornaments. “Other than a tote bag, a t-shirt, and a magnet, I thought, ‘What else can we do to change the merchandise game while we have this moment of time that I might not have had otherwise?’”
+
+Now it’s this virtual gift shop that’s keeping his business afloat.
+
+But tours are still happening.
+
+After taking some time to deal with those massive refunds at the onset of the pandemic, he decided he wanted to take his tours online. He started by putting videos on his company’s Instagram account. Then Playbill reached out to collaborate to do Zoom-hosted tours. It then evolved to Dolan doing his own virtual tours.
+
+“We've garnered people from all over the world,” he said. “I just did one yesterday, and she was like, ‘It’s 4 a.m. here in Australia. Thanks for keeping me awake.’ I didn’t realize that.”
+
+After Gov. Andrew Cuomo gave the green light for small in-person gatherings, he eventually began hosting walking tours again.
+
+His company used to do about 10 to 14 tours a week. That number’s gone down to about one to three a week. And with out-of-state tourism down drastically, the clients he serves are almost all locals.
+
+“I just kind of put it out there,” Dolan said. “For any New Yorkers who are bored in their studio apartments and want to get out for a minute—it's totally safe. Let's hang out in Times Square. There's no one here.”
+
+But locals aren’t the only customers he takes on his in-person tours.
+
+Every so often he gets out-of-towners like the Blaine family from Ohio, who visited at the end of September for four days. Currently, the quarantine guidelines for people arriving from out-of-state require people to get tested within three days of leaving for New York and after three days of quarantining in the city. If they test negative both times, they can bypass the 14-day quarantine. Even with an option for a three-day quarantine, this can make tourism difficult for people like the Blaines who did not quarantine on their brief trip.
+
+The family figured that they’d keep the trip fairly simple—walk around, relax, and check out Central Park for the few days they were in town. But Martin, his wife, and son were surprised at how full of an experience they were able to have.
+
+“For the month after we left, my son kept saying ‘I'm going to move to New York when I get older,’” Blaine said over the phone in November.
+
+Other than the huge crowds, sporting events and Broadway shows, the Blaine family was able to see and do most of what they would want to do on a normal New York City vacation, including the Broadway Up Close tour.
+
+“I showed up expecting there to be people,” Blaine said. “I figured that [Dolan] wouldn't just run this thing for the three of us, but yeah, it was just the three of us. It was really great. And it was even better because it was like we paid the regular price for a private tour.”
+
+The Blaines aren’t the only ones who think New York is still worth visiting this year.
+
+While the ferry station to Liberty Island is nowhere near the level of bustling it was pre-pandemic, tourists are still lining up to see the Statue of Liberty.
+
+Jannyna and Katy Morillo came to New York City from Quito, Ecuador and stayed with Jannyna’s uncle in the Bronx. It was Katy’s first time seeing the city.
+
+“I already know everything in the city, but for her [this is a first],” Jannyna said in Spanish. “We went to the Empire State Building, Madame Tussauds, and now the Statue of Liberty. This weekend we are having a family reunion for my uncle’s birthday.”
+
+There were other groups of friends who traveled to the city as well, including a group from Texas.
+
+“I would definitely come back,” said Gabby, 25. “I want to see more of the parks—it's really beautiful.”
+
+That was the refrain from many tourists we spoke to who have recently visited New York City—that it was such a great experience it only affirmed their resolve to come back.
+
+And that’s what is keeping Dolan’s spirits up and helping him concoct new ways to provide meaningful products and experiences for people who want to appreciate the city.
+
+“It’s just about finding any way we can cherish this incredible city that is hurting really badly and our industry that's hurting really badly,” he said. “How do you embrace all of that, and cherish that until the lights turn back on?”",This Is What Tourism Looks Like In NYC Right Now,['manual_google_by_location'],['tourism'],['New York']
+8716,,https://guestofaguest.com/new-york/nyc/fifth-avenue-holiday-lights,"'Tis the season...
+
+Though the holidays may look a tad bit different this year, the Fifth Avenue Association is making New York merry and bright, installing a series of brilliantly festive, larger-than-life classic toy sculptures along the Avenue for all to enjoy!
+
+Stretching from 50th Street to 59th Street, the ""Make It Bright"" holiday spectacular features ten show-stopping light installations created by Blachere Illumination, whose work has previously lit up the Champs Élysées and the Eiffel Tower - so you know it's going to be très chic!
+
+Expect to be wowed by the art pieces which range from five to eight feet tall and feature everything from a classic New York City taxicab and a giant teddy bear to an old fashioned Christmas tree delivery truck, a life-sized dreidel, a snowman pilot and more!
+
+Looking to plan this must-see holiday experience like a pro? Grab yourself some chocolate treats at the Lindt Chocolate Shop at 665 Fifth Avenue, and stroll slash munch your way uptown to check out all of the illuminated fun.
+
+Of course, you'll want to stop along the way to take in all of the amazing shop window displays at Saks Fifth Avenue and Bergdorf Goodman - not to mention warm up inside with a little retail therapy at Gucci, Louis Vuitton, Dior and more. I mean, so many of the iconic Fifth Avenue shops are giving back to the community this season, so really, how could you not! Oh, and did we mention that the Fifth Avenue Association is launching free holiday masks available at participating stores?
+
+If you've paced yourself correctly, you should be hitting 56th Street around lunchtime - so what better place to go than Armani Ristorante?
+
+Follow along and make sure you don't miss a beat with this illustrated map and full listing of the holiday designs. You'll know your merry outing has come to a most magical end when you've finished all of your chocolates, have too many bags to carry, and happen upon the light-filled finale in the Pulitzer Fountain in Grand Army Plaza!
+
+Don't miss out - the installations will be illuminated from 4PM to 10PM daily until January 8th. Click through to sneak a peek of the magical scenes that await!
+
+[Photos courtesy Liz Ligon]",Fifth Avenue Is Merry & Bright With These Can't-Miss Festive Holiday Light Installations,['manual_google_by_location'],['public_space'],['New York']
+8717,,https://nypost.com/2020/12/03/nyc-hospital-begs-for-more-nurses-ahead-of-second-covid-19-wave/,"Sign up for our special edition newsletter to get a daily update on the coronavirus pandemic.
+
+A Queens hospital that was overwhelmed with coronavirus patients in the spring has put out an urgent plea to recruit more nurses to handle an anticipated second wave of the illness this winter.
+
+The 402-bed Jamaica Hospital Medical Center issued a job posting saying that “once again” it will need staff reinforcements to avoid getting caught short-handed with a surge of sick patients.
+
+“Jamaica Hospital Medical Center and our affiliates need your help. Due to the increased number of COVID-19 cases now plaguing New York City and the anticipated surge of a second wave, we are now [entering] a new phase of COVID-response and are once again in need of experienced critical care, emergency room and medical surgical RNs for 12-hour flex per diem shift opportunities in our facilities,” Jamaica Hospital said in the job posting.
+
+“If you are an experienced ER, Medical, Surgical or Critical Care nurse and willing to help us in this unprecedented fight please contact [us].”
+
+Jamaica hospital had put out a similar appeal for staffers in late March as it dealt with the initial COVID-19 outbreak.
+
+A Queens lawmaker whose district includes the Jamaica hospital said management there doesn’t want to scramble for reinforcements, if needed.
+
+“It really is just being pro-active in the event of another spike,” said state Sen. Leroy Comrie.
+
+Gov. Andrew Cuomo on Monday expressed concern about staff shortages and directed hospitals to compile a list of retired doctors and nurses that they can draw from because there are already staffing issues at some hospitals.
+
+“I am very worried about staff shortages. I’m more concerned about the staff shortage than I am the [number of hospital] beds,” the governor said Monday.
+
+“We can build beds. We can’t create more staff. And the staff is starting to get tired.”
+
+Recruitment could be more difficult. During the spring, New York City was the epicenter of the deadly virus while other parts of the country were OK. Volunteer nurses and doctors came from other states to help New York hospitals handle the outbreak.
+
+But hospitals in many other states are grappling with COVID-19 caseloads and need reinforcements.
+
+The head of the trade group representing New York City’s 55 private and city-run hospitals insisted that staffing levels are currently sufficient to deal with a second COVID wave.
+
+“We’re not going to see a repetition of the spring. It doesn’t mean we won’t have a bit of a challenge,” said Ken Raske, CEO of the Greater New York Hospital Association.
+
+“We think our current inpatient staff will be able to handle the influx.”
+
+He said hospitals have the flexibility to reassign existing staff — such as nurses and doctors who handle outpatients — to treat coronavirus patients in the emergency room or inpatient wards.
+
+Also, Raske said staff can be redeployed among hospitals to help facilities grappling with outbreaks.
+
+He noted 40 of the 55 hospitals belong to the same health care companies, providing the flexibility to redeploy staff including the city-run Health & Hospitals agency that manages 11 public hospitals, the NY Presbyterian hospital system, the Mount Sinai network, NYU hospitals and the Montefiore system in The Bronx.
+
+Raske did say New York hospitals cannot count on medical volunteers from other parts of the country as they did in the spring, given the current outbreak in other states.
+
+“That’s not going to be possible now,” he said.
+
+Jamaica Hospital spokesman Michael Hinck said the recruitment campaign is precautionary. “Please understand that our recruitment efforts are purely a proactive measure on our part. We currently have an appropriate level of nurse staffing in all clinical areas. We recently began this recruitment campaign in anticipation of a potential second wave,” Hinck said.
+
+Jamaica hospital currently has fewer than 30 COVID patients as opposed to approximately 300 hospitalized patients at the peak in early-mid April, he said.
+
+
+
+“Because our hospital was located at the epicenter during the emergence of the pandemic we were fortunate to receive volunteer doctors and nurses from across the country. We are uncertain if we would receive the same level of assistance now as the virus is greatly affecting the entire nation,” Hinck said.
+
+
+
+Meanwhile the New York City Medical Reserve Corps — run by the Health Department — currently has over 13,000 medical volunteers at the ready to staff city hospitals for another outbreak. The reserve corps has not received staffing requests from hospitals “but they are ready to deploy volunteers for surge staffing if necessary,” said Health Department spokeswoman Julia Morrill.
+
+Moreover Northwell Health, the state’s largest private medical provider, said it has a reserve of 7,500 retired doctors, nurses and other clinicians at the ready to pitch in during a surge at its 23 regional hospitals, said spokesman Joe Kemp. Northwell operates Lenox Hill hospital on the Upper East Side, LIJ Forest Hills hospital and Staten Island University hospitals, among others.",Queens hospital begs for more nurses ahead of second COVID-19 wave,['manual_google_by_location'],"['health', 'indirect_city_relation']",['New York']
+8718,,https://www.crainsnewyork.com/commercial-real-estate/ah-lands-14m-bankruptcy-plagued-brooklyn-retail-building,"The buyer—a group led by brothers Alex and Harry Adjmi, who own more than 100 properties in New York—is expected to look for new tenants.
+
+The building went into contract and closed Nov. 13 in an off-market transaction.
+
+Retail leasing has been hit hard by the Covid-19 pandemic, with activity way down during the third quarter, according to a CBRE report. The brokerage firm leased about 2.7 million square feet of space in Manhattan, the lowest total since at least the first quarter of 2017. There also was a six-year high of 254 available ground-floor retail spots during the quarter.
+
+Still, the Bay Ridge site is an attractive location for retailers, Palmese said: “86th Street in Bay Ridge has a long history as a powerful retail destination, and this property benefits from its central location, its flexibility and from long-standing existing retail traffic patterns.”
+
+Nearby retailers include Banana Republic, Gap, TJ Maxx and Victoria’s Secret, none of which has escaped unscathed during the pandemic. Victoria’s Secret announced it would close many of its New York City locations, and the company is battling landlord SL Green over nearly $1 million in unpaid rent at its massive Herald Square store, which is currently closed.
+
+Gap Inc. announced plans to close around 350 Banana Republic and Gap stores in North America by the end of 2023.
+
+A Century 21 discount department store is near the 86th Street building as well. The store is expected to remain open until Dec. 7 as the company, owned by the Gindi family of ASG Equities, goes through bankruptcy proceedings. The company already closed both its Manhattan locations.
+
+A&H Acquisitions did not respond to a request for comment.
+
+Winfield Clifford, Brendan Maddigan, Michael Mazzara and Ethan Stanton were part of the team that represented Developers Realty in the sale.
+
+Correction, Dec. 3, 2020: Spectrum will not vacate the space. It will remain at the location for the remainder of its long-term lease.",A&H lands $14M bankruptcy-plagued Brooklyn retail building,['manual_google_by_location'],"['housing', 'indirect_city_relation']",['New York']
+8719,,https://www.newyorksocialdiary.com/when-hollywood-glamour-takes-on-new-york/,"When Hollywood glamour takes on New York
+
+Thursday, December 3, 2020. Colder yesterday in New York; in the low 40s and then dropping mid-evening into the 30s with a RealFeel of 29 degrees: very cold.
+
+The Beautiful Jean. I had dinner on Tuesday night with Mary Hilliard, one of our favorite photographers who’s been covering New Yorkers — here and abroad as well as in Palm Beach. In conversation about her business we wandered through personal association to Jean Howard, a major beauty of mid-20th century in Hollywood, New York and across the sea. Later on in the evening, after dinner, Mary sent me this photograph she took of Jean in 1989 at Mortimer’s restaurant with its owner Glenn Birnbaum and Lauren Bacall. It was a party for the publication of Jean’s first book of photographs, a photographic memoir, “Jean Howard’s Hollywood.”
+
+The title was apt in the sense that the little girl born Ernestine Mahoney in Fort Worth, Texas in 1910, who went on to become, in her uniquely quiet way, one of the most celebrated beauties (and personalities) in her world – in her time. I never heard the details of her childhood, but her father was a traveling salesman, her mother had a serious drug addiction — it may have been morphine; this was in the second decade of the 20th century — dying when Jean was still very young.
+
+When she was old enough, because of her mother’s condition, her father often took his daughter on his trips to the big cities, and especially New York. The bright lights caught the young girl’s imagination, and as fate had it, when she was 21 she was hired by Florenz Ziegfeld to appear in his 1931 Ziegfeld Follies. It was the last of the Follies, which lost its dazzle with the Depression. But it was the beginning of a brilliant career/life in the world that was just unfolding for everyone, and for now Jean Howard.
+
+I don’t know where Louis B. Mayer first met or spotted her — very possibly while attending a performance of the Follies. It was easy for him to be introduced to her. Now a successful mogul in his late 40s, and shining with stature with his own Studio, Mayer had begun cheating on his wife Margaret, mother of his two daughters, Edie Goetz and Irene Selznick. He was looking to return to his own youth with such a beauty by his side.
+
+Jean, however, did respond to his wishes to have her tested for a studio contract. She accompanied him to events and even traveled to Paris with him, although at her insistence chaperoned by a slightly older friend. She was not interested in being his wife or girlfriend. The frustrated Mayer threatened to kill himself by jumping from their hotel window if she didn’t marry him. Jean and her friend were on the first ocean liner back to New York.
+
+It was about the same time she met a young, handsome and successful talent agent named Charles Feldman. He spotted her one night at a nightclub in the Beverly Wilshire Hotel and sent a note to her the following morning asking if he could see her the following evening to discuss a very important matter. I don’t know Jean’s side of the story, but she agreed.
+
+You could tell by the note he sent her, knowing the after story, that he was flummoxed on the sight of her. She was a great natural beauty, with charisma suggesting that it was total. I had first read about her in a Cole Porter biography published in the early ’60s and I first met her in 1978 at a small dinner at the home of Merle Oberon and Rob Wolders in the Malibu Colony. It was like walking into film history for this writer.
+
+The guests were William (Willie) Wyler and his wife Tally, Luis Estevez, the fashion designer, and a close friend of Merle’s who was an old friend of mine and had arranged for my presence — knowing my curiosity — and Jean Howard and her second husband Tony Santoro, a guitarist she met when she heard him in a small café on the island of Capri where she was often a guest of Mona Bismarck.
+
+The story of their meeting in that café is classic. Tony was a very nice, soft spoken man, about fifteen or maybe twenty years her junior. When she told me the story of the night, she was with two gentlemen friends of hers, rich Americans of middle age both of whom had their eye on the guitarist. They even flipped a coin over him. Invited to their table after a set, Jean and Tony were at the right place at the right time. They returned to Beverly Hills together and remained in residence to the end of her life.
+
+I don’t know much about Jean’s professional career. I knew her because of her association with Cole Porter, and that she was married to Charlie Feldman who owned the Ashley-Famous Agency and produced the first Woody Allen film. Meeting her that night at Merle’s was fascinating to me because there was a natural serenity in her presence and her beauty was outshone by her presence. She was open and curious, but warm and friendly, and you had the feeling that she was always like this. It was a subtle charm.
+
+As I got to know her throughout the ‘70s and ‘80s, I was in her thrall. She had the sophistication of her environment and the ole Texas girl quiet razz-ma-tazz right underneath — while maybe slipping in an interesting and sharp insight about a personality she was describing. And there was that easy gentle, quiet laugh that came out of that smile. She lived in a wonderful hacienda style house at 2000 Coldwater Canyon which she and Charlie Feldman bought in 1935. When I knew her the house had been long ago decorated by Elsie De Wolfe/Lady Mendl, who during the Second World War had returned from Europe to the U.S and settled in house just down the road from the Feldmans. She gave the Feldman hacienda style and the California classic feeling; quietly comfortable.
+
+That was when Beverly Hills was mainly countryside and 2000 Coldwater was one of the few houses in the area. After they divorced, Jean and Charlie shared use of the residence six months each until he finally, having remarried, gave it to her.
+
+There was a black baby grand in one corner of the music gallery overlooking the courtyard. On it was a single silver framed portrait of Cole Porter with the handwritten inscription: To the beautiful Jean” and signed “Love Cole”.
+
+Jean later was heir to several bequests in Cole’s will. His wife Linda left her collection of jewels to Jean as well as other items of furniture that fit in to Lady Mendl design. Nights at Jean’s dinners often ended around the piano with the local talent (Judy Garland, Richard Burton, Sammy Davis, and many others over the years). It was relaxed but it was, in keeping with the fashion of the times in Hollywood, long dresses, suit and tie, maybe black tie at times.
+
+There was one such dinner party on the night of July 13, 1960 when John F. Kennedy was nominated for the Presidency downtown at the LA Memorial Coliseum. Jean’s guests were celebrating his nomination, and her guests had finally gone home long after midnight when the nominee himself arrived at a side door of the rambling hacienda, solo, and happy to be there.
+
+She took up photography sometime in the late ’40s or early ‘50s. It was out of interest, but not from the point of view as a hobby. She was trained by a female photographer well known in the community. Jean lived and worked around professionals all her life.
+
+The objective was to Be Your Best to your audience. This was assumed in all her work. Her book “Jean Howard’s Hollywood” is now a classic, a piece of art in the sense that her photographs reflect the feeling I’ve described about being around her. She clearly made a life for herself as a hostess. And it had a quiet glamour that was Hollywood — a name in that age for one of the most glamorous places in the world – and she was a great hostess. Everyone felt comfortable in her presence. It came with her personality.
+
+Looking at Mary’s photo of Jean taken at the book party in Mortimer’s with Glenn Birnbaum and Lauren Bacall (who is photographed with Humphrey Bogart in the book) taken in the early days of their marriage, I was looking at a much older Jean than I had seen in the days I had got to know her. But the face, which looks so perfect, was the same face, and the perfection — perhaps assisted later in her life — was the same. It was in the eyes, the way she looked at you in conversation, the eyes on you; that was the charisma.
+
+She was in her 79th year in that photograph of Mary’s. I was reminded how a few years before she had told me that she was proud of the fact that as she was getting older she had been honest about her age. But by 78, she wished she’d cut a few years off much earlier, thinking maybe that would even return herself to that energy and perception. She died shortly before her 90th in 2000.",When Hollywood glamour takes on New York,['manual_google_by_location'],"['entertainment', 'indirect_city_relation']",['New York']
+8720,,https://abc7ny.com/ryan-wilson-inmate-suicide-the-tombs-manhattan-detention-complex/8475173/,"LOWER MANHATTAN (WABC) -- Family and supporters of Ryan Wilson, a man who killed himself in a New York City prison, demanded justice after they say he was left without supervision despite a history of mental health issues.The family held a briefing outside Manhattan Detention Complex, known informally as ""The Tombs,"" Thursday.That's where the 29-year-old Wilson was being held on November 22 when he died by suicide in his cell.""It's not supposed to be a tomb, it's supposed to be a jail. How in the world does this happen?"" attorney Ben Pinczewski said.""Something happened that triggered him to think about taking his life,"" civil rights advocate Rev. Kevin McCall said.Wilson had been released from Sing Sing Correctional Facility in Ossining over the summer and struggled to make ends meet.""He didn't have the patience to wait for something to come along. He was released during COVID and the pressure was on him to make something happen,"" Wilson's sister Elyana Manson said.He was arrested for robbery in October. He had mental health issues, including schizophrenia his sister said.""What supervision did he have while he had his mental issues? He was supposed to be under watch and he wasn't,"" Manson said.""The City of New York should be providing services for those individuals that have mental issues. Just because you have a mental issue that doesn't mean you need jail time,"" McCall said.After Wilson's death, a captain and a correction officer were suspended.It's the second death of a New York City jail inmate in less than two months.Both deaths are under investigation.----------",Family of NYC inmate who killed himself says he was wrongly left unsupervised,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['New York']
+8721,,https://nypost.com/2020/12/03/following-scandalous-split-snapchats-betsy-kenny-finds-new-nyc-digs/,"Betsy Kenny, the ex of controversial former NBC News chief Andy Lack, 73, has bought herself new Upper West Side digs.
+
+The Princeton grad and former Vanity Fair contributing editor — and current head of global brand strategy at Snapchat — has purchased a co-op at 15 W. 81st St., a classic Emery Roth-designed landmarked building, according to property records.
+
+The three-bedroom, 3½-bathroom unit first went on the market in January for $6.4 million and was last asking $5.99 million.
+
+Kenny and Lack were married from 1992 until their split last year. Lack presided over the Matt Lauer scandal (ultimately firing Lauer).
+
+The “classic seven” has views over the Museum of Natural History and Central Park to the city skyline.
+
+The home has been renovated and features the original herringbone floors, doors, moldings and hardware.
+
+The home opens to a 27-foot gallery that leads from the living room to a formal dining room.
+
+There’s also an L-shaped kitchen with an original casement window, subway tiles and St. Charles cabinetry, along with a separate bedroom wing.
+
+Building amenities include a gym, playroom and separate storage.
+
+The listing brokers were Michael J. Franco, Greg Holzmann and Miriam Richards, of Compass. When reached, Franco declined comment on behalf of all three.","Following scandalous split, Snapchat’s Betsy Kenny finds new NYC digs",['manual_google_by_location'],"['gossip_news', 'not_related_to_city']",['New York']
+8722,,https://therealdeal.com/2020/12/03/cuomo-to-ease-requirements-for-rent-relief/,"The eligibility requirements for New York’s rent-relief program will be relaxed so that more can access the funds.
+
+Details of the specific changes to the program were not provided, but sources said Gov. Andrew Cuomo would make the change via an executive order issued late Thursday or Friday morning.
+
+The rent-relief program, which was passed in July, came under criticism from tenant groups who said the relief was insufficient. The first day the program was available, a flood of applications temporarily crashed the rental assistance website.
+
+Just 57,000 of the 94,000 applicants who sought relief were successful. Lawyers representing tenants warned that if the legislature did not act, the remaining funds — $60 million out of an initial $100 million — would go to waste. The funds were provided under the CARES Act and will be returned to the federal government if not spent by Dec. 30.
+
+Jay Martin, the executive director of the Community Housing Improvement Program, which represents landlords, said the amount of aid was small relative to the overall need, but still “good news” for property owners.
+
+The Legal Aid Society, a nonprofit which represents low-income tenants, criticized the state for waiting until the last moment to make changes to the program.
+
+“Albany has just weeks to recalibrate this program to ensure that $60 million in resources reaches New Yorkers facing eviction and homelessness,” said Judith Goldiner, an attorney at the nonprofit. “This crisis was wholly self-made, the result of Albany waiting until the last second to act and then doing so only in the face of headlines and public pressure.”
+
+Legal Aid, as well as other tenant advocate groups, said the program was flawed from the beginning, because of uneven access to the application process, strict eligibility requirements and insufficient relief.
+
+Those groups instead advocated for bills which would cancel rent across the board for renters, and provide limited, means-tested aid to landlords.
+
+Those bills, however, have not progressed since being introduced in the spring, despite a letter from state Sen. Michael Gianaris asking President-elect Joe Biden to cancel rent.",New York to Relax Rent Relief Requirements,['manual_google_by_location'],"['housing', 'policy']",['New York']
+8723,,https://www.6sqft.com/nyc-themed-gifts/,"The best NYC-themed gifts for everyone on your list
+
+It’s always fun to show a little hometown pride, but this year, New York really deserves it. Whether you want to give your out-of-town family member a memento of your city or get something personal for a local friend, these NYC-themed gifts are sure to please. From cute subway merch to puzzles of your favorite landmarks to all the best books, this guide has a little something for everyone.
+
+All of these products have been hand-selected by team 6sqft. We may receive a commission for purchases made through these affiliate links. All prices reflect those at the time of publishing.
+
+FOR THE DIE-HARD NEW YORKER
+
+FOR THE HISTORY BUFF
+
+FOR THE BROOKLYNITE
+
+Cobble Hill by Cecily von Ziegesar
+
+$18.57 on Amazon From the author of the Gossip Girl series comes this much-anticipated novel that chronicles a year in the life of four families in this upscale Brooklyn neighborhood. Vintage-Inspired Food Ornaments
+
+$42 for a set of three on Food52 Historically, Brooklyn has been home to a large Italian-American community, which means the borough has tons of old-school Italian delis. And what’s more synonymous with that than cheese?! Photography by Julia Gartland & Ty Mecham Handmade Color Drip Mug
+
+$34 each or $129 for a set of 4 on Food52 These cheerful mugs remind us of an abstract skyline or stretch of rowhouses. Plus, they’re handcrafted by Wilcoxson Brooklyn Ceramics from recycled porcelain clay. Photography by Julia Gartland for Food52
+
+FOR THE FABULOUS FEMALE
+
+Certificate of Recognition from the NYC Municipal Archives
+
+FreeIf you’re really looking for something unique, this could be a perfect idea. WomensActivism.NYC, an open, crowdsourced digital archive commemorating the 100th anniversary of Women’s Suffrage in the U.S., is gathering stories of women change-makers, known and unknown, that will be maintained forever by the NYC Municipal Archives. The “Gift A Story” program allows you to write the story of a special woman in your life and post it on the site. Then, download and personalize an attractive official certificate to give as a gift. Image courtesy of NYC Municipal Archives Holy Cannoli, Yellow Gold Charm
+
+$118 from Catbird Jewelry New Yorkers love a good Italian bakery, and how cute is this cannoli charm? Plus, it’s made by Brooklyn-based jewelry studio Catbird. There’s also a bagel version. Image courtesy of Catbird Jewelry
+
+FOR THE DRINK LOVER
+
+FOR THE TRANSIT NERD
+
+FOR KIDS
+
+Starlight Puzzle
+
+$17.95 at the NY Transit Museum Store Get the little ones interested in NYC history early with this super-cute puzzle of Grand Central’s famous ceiling. Photo courtesy of New York Transit Museum Christmas in New York Felt Ornaments
+
+$36-$60 on Food52 You won’t have to worry about the little one breaking these adorable, fair-trade ornaments. They’re all handcrafted in Kathmandu, Nepal, by women artisans. Photography by Rocky Luten & Ty Mecham for Food52 City Skyline Wooden Block Set
+
+$29.99 on Amazon For your little budding architect, this eight-piece wooden block set includes famous landmarks like the Freedom Tower, Empire State Building, Chrysler Building, Rockefeller Center, Statue of Liberty, Madison Square Park Building, Citicorp Tower, and a yellow taxi.
+
+STOCKING STUFFERS
+
+For more gift ideas, check out 6sqft’s other 2020 holiday gift guides:
+
+20 gifts that give back in 2020
+
+Holiday food gifts from your favorite NYC restaurants and shops
+
+The best Black Friday + Cyber Week deals from NYC brands and small businesses",The best NYC-themed gifts for everyone on your list,['manual_google_by_location'],['not_sure'],['New York']
+8724,,https://www.nbcnewyork.com/news/local/tolls-increase-on-ny-thruway-for-drivers-without-e-zpass/2756782/,"Tolls will increase for drivers on the New York Thruway who do not have an E-ZPass starting Jan. 1.
+
+The State Thruway Authority voted Tuesday to raise tolls by 30% for people who are driving on the Thruway without an E-ZPass, a device that collects toll information and charges drivers.
+
+The Thruway eliminated cash tolls in November. That means drivers without an E-ZPass are sent a bill by mail.
+
+In addition to the 30% higher toll, drivers billed by mail will also be charged a $2 administrative fee every time they are billed.
+
+This is the first time in 10 years that tolls on the Thruway have been raised, the State Thruway Authority said. The revenue from the increase will support the conversion to cashless tolling.
+
+Tolls will also increase for most drivers crossing the Gov. Mario M. Cuomo Bridge in 2021 and 2022.",Tolls Increase on NY Thruway for Drivers Without E-ZPass,['manual_google_by_location'],"['public_announce', 'indirect_city_relation']",['New York']
+8725,,https://nypost.com/2020/12/03/armed-thieves-rob-nyc-bodega-with-kid-inside-video/,"A gunman and an accomplice robbed a Bronx bodega — with an employee’s terrified 6-year-old daughter inside, new video released by cops shows.
+
+The suspects entered the store on Featherbed Lane in Morris Heights around 7:30 p.m. Sunday, cops said.
+
+The video, released late Wednesday, shows one of the men running past the little girl — the daughter of a 51-year-old store employee — who waves her arms around before running for cover.
+
+That suspect then grabs the cash register door, holding $700, and makes a beeline for the door.
+
+Then, the other suspect, holding a gun in one hand, pushes the girl’s mother with the other.
+
+She gets back up and continues fighting with him, chasing him out of the store.
+
+Both suspects fled into a black SUV, cops said.
+
+No shots were fired and no injuries were reported.
+
+The same store was targeted during another armed robbery back on Nov. 21, just after midnight, cops said.
+
+Police say an employee, also identified as a 51-year-old woman, was working behind the counter when two men entered, one of them flashing a gun and demanding property.
+
+The other went behind the counter, stole about $150 from the register and took off.
+
+The suspects are believed to be between 20 and 30 years old.
+
+And back on Sept. 27, around 6 p.m., a 63-year-old woman was sitting in her car outside the store when a woman got out of a double-parked vehicle, walked up to her and punched her in the face, police sources said.
+
+Thieves robbed a Bronx bodega with a 6-year-old girl inside, video shows. DCPI
+
+When the victim tried to take down her attacker’s license plate number, a man approached, grabbed her by the neck and pushed her out of the car and onto the ground, according to the sources.
+
+The woman was treated at the scene for bruising to her head and cuts on her knees and elbows. She was not hospitalized.
+
+Police at the time released surveillance photos of the male suspect, whom they described as between 20 and 30 years old. He was shown in the images wearing a red Los Angeles Angels cap.
+
+Police could not immediately say whether investigators believe any of the incidents are linked.","Armed thieves rob Bronx bodega with 6-year-old girl inside, video shows",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['New York']
+8726,,https://nycfuture.org/research/a-green-public-works-program-for-nyc,"To understand how New York might take advantage of federal investment to create jobs and help the city mitigate and adapt to the effects of climate change, CUF asked city leaders in coastal resilience, environmental justice, urban agriculture, renewable energy, and more for sustainability and resiliency project ideas.",A Green Public Works Program for NYC: 40 Ideas from Experts,['manual_google_by_location'],"['sustainability', 'policy']",['New York']
+8727,,https://www.amny.com/news/two-dozen-subway-cars-struck-in-overnight-weekend-graffiti-storm/,,Two dozen subway cars struck in overnight weekend graffiti storm,['manual_google_by_location'],['not_sure'],['New York']
+8728,,https://therealdeal.com/2020/12/03/landlords-lose-challenge-against-pandemic-renter-protections/,"The results of last month�s election have increased the likelihood of a significant federal public works plan in 2021 focused on boosting climate resilience. During the campaign, President-Elect Biden proposed a $2 trillion infrastructure plan to boost the economy and tackle climate change. He also called for the creation of a Civilian Climate Corps that would work on resilience and restoration projects, modeled after the New Deal-era Civilian Conservation Corps (CCC). The deep economic pain being felt across the country may also create broad political support for a major infrastructure bill to get Americans back to work.",NYC Landlords Tenant Pandemic Protections Suit Dismissed,['manual_google_by_location'],['housing'],['New York']
+8729,,https://www.timeout.com/newyork/news/a-first-look-at-new-york-citys-newest-park-along-the-hudson-river-120220,,A first look at New York City's newest park along the Hudson River,['manual_google_by_location'],['planning_&_design'],['New York']
+8730,,https://therealdeal.com/2020/12/02/developer-of-the-failed-new-york-wheel-sues-its-contractor-again/,"New York City should prepare to seize this opportunity. Few other American cities would benefit more from a public works initiative to create jobs. Through September, New York City had lost roughly 650,000 jobs since the start of the pandemic, with a disproportionate share of the job losses going to New Yorkers without a college credential. New York also faces an urgent need to protect coastal communities from storms and sea level rise, modernize vulnerable infrastructure, and transition away from fossil fuels.",New York Wheel Developer Files Another Suit Against Contractor,['manual_google_by_location'],['indirect_city_relation'],['New York']
+8731,,https://www.nytimes.com/2020/12/03/nyregion/new-york-coronavirus-vaccine.html,,Which New Yorkers Will Be First to Get the Virus Vaccine?,['manual_google_by_location'],['health'],['New York']
+8732,,https://www.nytimes.com/2020/12/02/nyregion/subway-ridership-mta.html,City officials should get ahead of this by identifying�and planning for�ambitious and creative sustainability and resiliency projects that can create much-needed jobs for out-of-work New Yorkers while helping the city mitigate and adapt to the effects of climate change.,"Crowded Subways? Yes, in Neighborhoods Where People Have to Go to Work",['manual_google_by_location'],[],['New York']
+8733,,https://www.ny1.com/nyc/all-boroughs/education/2020/12/02/nyc-school-reopening-in-person-learning-daily-concerns-principals-union,,Principals’ Union Skeptical Most NYC Schools Will Have Daily Instruction,['manual_google_by_location'],['school'],['New York']
+8734,,https://altamontenterprise.com/12032020/has-new-york-painted-itself-corner,"This report aims to jumpstart the process. To better understand how New York can best take advantage of possible federal investment, we asked city leaders in urban agriculture, coastal resilience, environmental justice, conservation, renewable energy, urban design, green infrastructure, and the circular economy to give us concrete ideas of sustainability and resiliency projects that the city should run with should federal support materialize.",Has New York painted itself into a corner?,['manual_google_by_location'],['energy'],['New York']
+8735,,https://www.nbclosangeles.com/news/local/lapd-could-see-layoffs-as-city-struggles-with-budget-deficit/2476039/,,LAPD Could See Layoffs as City Struggles With Budget Deficit,['manual_google_by_location'],['police'],['Los Angeles']
+8736,,https://spectrumnews1.com/ca/la-west/human-interest/2020/12/04/tech-incubator-gives-former-prisoners-fresh-start,"This report features their insights. It includes inventive and concrete project ideas from more than twenty experts, including resiliency experts Amy Chester of Rebuild by Design, Hildegaard Link of Resilient Red Hook, and Judah Asimov of RISE; clean energy experts including Chris Collins of SolarOne and Pat Sapinsley of NYU Tandon, architects Hana Kassem of Kohn Pedersen Fox, Jeffrey Raven of RAVEN A+U, and Clare Miflin of the Center for Zero Waste Design; urban tech pioneer Micah Kotch of URBAN-X; urban agriculture expert Henry Gordon Smith; and environmental leaders including Emily Nobel Maxwell of the Nature Conservancy and Sarah Charlop-Powers of the Natural Areas Conservancy, Paul Gallay of Riverkeeper, and Cortney Worral of Waterfront Alliance.",Tech Incubator Gives Former Prisoners Fresh Start,['manual_google_by_location'],['not_sure'],['Los Angeles']
+8737,,https://spectrumnews1.com/ca/la-east/homelessness/2020/12/03/la-mission-helps-formerly-homeless-man-get-employment--find-housing,,"LA Mission Helps Former Homeless Man Find Employment, Housing",['manual_google_by_location'],"['homelessness', 'indirect_city_relation']",['Los Angeles']
+8738,,https://www.latimes.com/local/lanow/la-me-ln-leung-hearing-20180802-story.html,Some of the ideas include:,Real estate developer pleads guilty in sprawling L.A. campaign money laundering case,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Los Angeles']
+8739,,https://la.eater.com/2020/12/3/22150409/morning-briefing-restaurant-news-los-angeles-judge-dining-ban-data-update-court,,LA Judge Orders County Officials to Provide Evidence for Outdoor Dining Ban,['manual_google_by_location'],['not_sure'],['Los Angeles']
+8740,,https://www.chicagobusiness.com/residential-real-estate/if-you-bought-home-here-1991,Construct stormwater storage structures in low-lying neighborhoods,If you bought a home here in 1991...,['manual_google_by_location'],['housing'],['Chicago']
+8741,,https://www.chicagobusiness.com/commercial-real-estate/these-four-lincoln-park-buildings-could-be-landmarks-soon,,These four Lincoln Park buildings could be landmarks soon,['manual_google_by_location'],['planning_&_design'],['Chicago']
+8742,,https://www.nbcchicago.com/news/coronavirus/chicago-mayor-says-city-will-follow-new-cdc-guidance-surrounding-quarantine-time/2385615/,Deploy a climate corps to install energy retrofits,Chicago Mayor Says City Will Follow CDC Guidance Surrounding Quarantine Time,['manual_google_by_location'],[],['Chicago']
+8743,,https://www.chicagobusiness.com/greg-hinz-politics/chicago-illinois-lag-us-covid-economic-recovery-study,,"Chicago, Illinois lag U.S. in COVID economic recovery: study",['manual_google_by_location'],['employment'],['Chicago']
+8744,,https://news.wttw.com/2020/12/02/chicago-failing-enforce-recycling-laws-watchdog,Develop �Ecohubs� in every NYCHA development,Chicago is Failing to Enforce Recycling Laws: Watchdog,['manual_google_by_location'],['recycle'],['Chicago']
+8745,,https://patch.com/illinois/chicago/chicago-plans-reopen-schools-ask-teachers-return-even-if-majority-students-stay-hom,,"Chicago Plans To Reopen Schools And Ask Teachers To Return, Even If The Majority Of Students Stay Home",['manual_google_by_location'],['school'],['Chicago']
+8746,,https://www.chicagobusiness.com/crains-daily-gist/crains-daily-gist-podcast-downtown-falls-behind-chicago-area-real-estate-boom,Create green jobs through resilience retrofit certifications,Crain's Daily Gist podcast: Downtown falls behind in Chicago-area real estate boom,['manual_google_by_location'],[],['Chicago']
+8747,,https://www.nbcchicago.com/news/local/chicago-area-nursing-students-gain-valuable-experience-during-pandemic/2386151/,,Chicago-Area Nursing Students Gain Valuable Experience During Pandemic,['manual_google_by_location'],['health'],['Chicago']
+8748,,https://michiganavemag.com/chicago-home-sales-boom-2020,Build energy resilience through community solar,Chicago Home Sales Boom in October,['manual_google_by_location'],['housing'],['Chicago']
+8749,,https://www.local10.com/news/local/2020/12/03/since-pandemic-miami-neighborhood-overrun-with-abandoned-properties-illegal-dumping/,,"Since pandemic, Miami neighborhood overrun with abandoned properties, dumping",['manual_google_by_location'],['not_sure'],['Miami']
+8750,,https://miami.cbslocal.com/2020/12/03/deadly-miami-bus-shooting-arrest/,Convert vacant storefronts into temporary hydroponic food production facilities.,Suspect In Deadly Miami Bus Shooting Arrested,['manual_google_by_location'],"['crime_incident', 'gun', 'indirect_city_relation']",['Miami']
+8751,,https://www.nbcmiami.com/news/local/police-searching-for-missing-miami-teen-last-seen-at-school/2335688/,,Police Searching for Missing Miami Teen Last Seen at School,['manual_google_by_location'],"['police', 'indirect_city_relation', 'not_sure']",['Miami']
+8752,,https://miami.cbslocal.com/2020/12/04/miami-police-alarmed-child-abuse-case-4-year-old-boy-surgery-3rd-degree-burns-hand/,"Boost green roof installation, starting with city property",Miami PD Alarmed By Child Abuse Case Where 4-Year-Old Boy Needed Surgery After 3rd-Degree Burns To Hand,['manual_google_by_location'],"['police', 'children']",['Miami']
+8753,,https://www.miamitodaynews.com/breaking/miami-aims-to-bar-future-standalone-bars-on-ocean-drive/,,Miami aims to bar future standalone bars on Ocean Drive,['manual_google_by_location'],['planning_&_design'],['Miami']
+8754,,https://www.nbcdfw.com/news/local/police-discover-bags-of-marijuana-in-refrigerator-dropped-along-interstate/2495419/,Design and distribute curbside organic waste containers,Bags of Marijuana Found in Refrigerator Dropped Along Interstate,['manual_google_by_location'],"['drug', 'indirect_city_relation']",['Dallas']
+8755,,https://www.dallasobserver.com/news/dallas-tries-to-tap-the-breaks-on-street-racing-11966834,,Dallas Tries To Tap The Brakes On Street Racing,['manual_google_by_location'],[],['Dallas']
+8756,,https://www.dallasobserver.com/music/dallas-music-news-local-holiday-songs-todd-rundgrens-dallas-centered-show-11967124,Protect coastal communities and infrastructure by investing in wetlands restoration,"Dallas Music News: Local Holiday Songs, Todd Rundgren’s Dallas-Centered Show",['manual_google_by_location'],"['entertainment', 'indirect_city_relation']",['Dallas']
+8757,,https://www.keranews.org/texas-news/2020-12-03/dallas-faith-leaders-push-city-to-update-predatory-lending-rules,,Dallas Faith Leaders Push City To Update 'Predatory' Lending Rules,['manual_google_by_location'],"['financial', 'policy']",['Dallas']
+8758,,https://fortworthbusiness.com/real-estate/dallas-park-to-get-iconic-fountain/,Build floating farms on barges in NYC waterways,Dallas park to get $10M iconic fountain,['manual_google_by_location'],['planning_&_design'],['Dallas']
+8759,,https://www.dallasweekly.com/articles/zoning-vs-small-business-three-south-dallas-stories/,,Zoning vs. small business: Three South Dallas stories,['manual_google_by_location'],['employment'],['Dallas']
+8760,,https://www.dallasnews.com/news/crime/2020/12/02/passer-by-finds-homicide-victim-under-bridge-in-northeast-dallas-police-say/,The following are brief descriptions of the ideas we received:,"Passer-by finds homicide victim under bridge in northeast Dallas, police say",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Dallas']
+8761,,https://patch.com/texas/dallas-ftworth/dallas-isd-significantly-increasing-its-internet-bandwidth-so-students-can,,Dallas ISD Is Significantly Increasing Its Internet Bandwidth So Students Can Successfully Learn From Anywhere,['manual_google_by_location'],['urban_tech'],['Dallas']
+8762,,https://www.dallasnews.com/business/real-estate/2020/12/02/dallas-leads-the-country-in-construction-employment-gains/,Cortney Worrall,Dallas leads the country in construction job gains,['manual_google_by_location'],['employment'],['Dallas']
+8763,,https://dallasinnovates.com/as-vacancies-hit-a-pandemic-peak-in-q3-rents-remain-stable/,,"As Vacancies Hit a Pandemic Peak in Q3, Rents Remain Stable",['manual_google_by_location'],['employment'],['Dallas']
+8764,,https://www.dallasnews.com/news/inspired/2020/12/03/star-turns-dallas-area-teens-win-national-musical-theater-songwriting-contest/,President and CEO,Star turns: Dallas-area teens win national musical theater songwriting contest,['manual_google_by_location'],"['entertainment', 'indirect_city_relation']",['Dallas']
+8765,,https://www.dallasnews.com/opinion/editorials/2020/12/02/dallas-has-to-embrace-entrepreneurism-in-new-ways/,,Dallas has to embrace entrepreneurism in new ways,['manual_google_by_location'],['employment'],['Dallas']
+8766,,https://www.phillyvoice.com/shop-black-business-friday-december-philadelphia/,Waterfront Alliance,Philadelphia declares all Fridays in December 'Shop Black Business Friday',['manual_google_by_location'],['employment'],['Philadelphia']
+8767,,https://whyy.org/articles/how-would-you-spend-1m-in-city-cash-philly-wants-residents-to-shape-next-budget/,,How would you spend $1M in city cash? Philly wants residents to shape next budget,['manual_google_by_location'],['financial'],['Philadelphia']
+8768,,https://philadelphia.cbslocal.com/2020/12/02/joey-toms-south-philadelphia-murder-victim-gun-violence/,Create green jobs through resilience retrofit certifications,Police Searching For 2 Men Allegedly Responsible For Gunning Down Man Looking For Parking Spot In South Philadelphia,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['Philadelphia']
+8769,,https://billypenn.com/2020/12/04/philly-authors-blue-stoop-holiday-party-words-revolution-fundraiser/,,Philly authors holiday party: ‘Words of Revolution’ with Blue Stoop,['manual_google_by_location'],"['indirect_city_relation', 'not_sure']",['Philadelphia']
+8770,,https://6abc.com/philadelphia-police-standoff-officer-under-fire-shooting-kyle-road-barricade/8483066/,"Investing in the development of worker certificate programs and expansion of home and small business retrofit and technical assistance programs such as FloodHelpNY can help create multiple career paths around resiliency retrofits. At scale, widespread resiliency retrofits programs have the potential to decrease flood damage risk, and reduce insurance premium costs for low-income families living in parts of the city that are increasingly vulnerable due to more frequent and damaging storms and sea level rise caused by climate change, and also create jobs. In particular, retrofit programs could create �green and blue collar� jobs in engineering, construction, science, research, education, masonry, landscaping, planning, utility operation, and more.",Philadelphia police reveal new info on standoff that ended in officer-involved shooting,['manual_google_by_location'],"['indirect_city_relation', 'crime_incident']",['Philadelphia']
+8771,,https://philadelphiaweekly.com/another-bad-bill-targets-the-ppd/,,Another bad bill targets the PPD,['manual_google_by_location'],['policy'],['Philadelphia']
+8772,,https://whyy.org/articles/philly-parks-are-going-organic-with-ban-on-synthetic-weed-killers/,Green NYC�s ports and energy infrastructure,Philly parks are going organic with ban on synthetic weed-killers,['manual_google_by_location'],"['public_space', 'health']",['Philadelphia']
+8773,,https://www.phillymag.com/news/2020/12/03/philly-weather-severe-climate-change-fall/,,Philly Weather Is Getting Warmer and Wetter. Is This the New Normal?,['manual_google_by_location'],['weather'],['Philadelphia']
+8774,,https://6abc.com/germantown-homicide-philadelphia-shooting-death-deadly-philly/8470475/,"The city should invest in resilient waterfront infrastructure by greening our ports and constructing renewable energy infrastructure. Wind and solar installation, operations, and maintenance can be housed at port facilities. Electrification of port vehicles and vessels will reduce air quality impacts to surrounding communities. In addition, every borough should have a working pier that can accommodate last-mile package delivery which will remove trucks from the road as e-commerce increases local delivery traffic.","Surveillance video released of fatal Germantown shooting, 19-year-old killed",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Philadelphia']
+8775,,https://philadelphia.cbslocal.com/2020/12/03/grubhub-orders-skyrocket-during-pandemic-but-which-are-most-popular-in-philadelphia/,,"Grubhub Orders Skyrocket During Pandemic, But Which Are Most Popular In Philadelphia?",['manual_google_by_location'],"['policy', 'public_space']",['Philadelphia']
+8776,,https://www.nbcphiladelphia.com/news/local/phillys-new-building-tax-abatement-changes-to-pay-for-more-affordable-housing/2618165/,Jeffrey Raven,"Philly's New Building Tax, Abatement Changes to Pay for More Affordable Housing",['manual_google_by_location'],"['housing', 'policy']",['Philadelphia']
+8777,,https://www.insurancejournal.com/news/east/2020/12/03/592596.htm,,Philadelphia Hunger Group Loses Nearly $1M in Cyberattack,['manual_google_by_location'],"['IT_crime', 'indirect_city_relation']",['Philadelphia']
+8778,,https://patch.com/pennsylvania/across-pa/school-districts-philly-shouldn-t-have-rely-handouts-make-sure-kids-are-safe,Principal,"School Districts, Like Philly, Shouldn't Have To Rely On Handouts To Make Sure Kids Are Safe (OPINION)",['manual_google_by_location'],"['school', 'safety']",['Philadelphia']
+8779,,https://6abc.com/philly-program-aims-to-tackle-gun-violence-crisis-skills-training-career-opportunities/8449282/,,"Philly program aims to tackle gun violence crisis with skills training, career opportunities",['manual_google_by_location'],"['policy', 'crime', 'gun', 'employment']",['Philadelphia']
+8780,,https://www.phillyvoice.com/west-philly-life-sciences-30-university-place-wistar-institute-silverstein-properties/,RAVEN A+U,Plans for life sciences building unveiled in West Philly Opportunity Zone,['manual_google_by_location'],['planning_&_design'],['Philadelphia']
+8781,,https://www.click2houston.com/news/local/2020/12/04/26-human-smuggling-victims-rescued-from-southwest-houston-home-police-say/,,"Nearly 30 human smuggling victims rescued from southwest Houston home, police say",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Houston']
+8782,,https://www.chron.com/news/houston-texas/article/houston-traffic-610-most-congested-west-loop-15769480.php,Prioritize construction of �sponge city� projects,"Congrats, Houston: We no longer have the most congested road in Texas",['manual_google_by_location'],['transportation'],['Houston']
+8783,,https://www.houstonchronicle.com/news/houston-texas/houston/article/What-you-need-to-know-about-Houston-s-1-200-15770586.php,,"What you need to know about Houston’s $1,200 direct relief program",['manual_google_by_location'],['policy'],['Houston']
+8784,,https://www.click2houston.com/news/local/2020/11/20/city-of-houston-launches-virtual-native-american-museum/,"Faced with the urgent need to mitigate and adapt to climate change, NYC must prioritize urban design that accomplishes both. Sponge City infrastructure such as green roofs, underground stormwater basins, permeable pavements, and bioretention facilities help urban areas soak up as much stormwater as possible while also reducing carbon emissions, enhancing non-motorized transport networks and cooling the city. Construction of these types of projects should be prioritized in high-density areas such as Midtown Manhattan, Downtown Manhattan, and Downtown Brooklyn. New York can also incentivize private development of sponge city infrastructure through transferable development rights and credits/waivers for POPs (privately owned public park) space in designated areas of need.",City of Houston launches virtual Native American museum,['manual_google_by_location'],['urban_tech'],['Houston']
+8785,,https://www.chron.com/news/houston-texas/article/houston-boy-give-homeless-houston-15758296.php,,Houston boy gives 'blessing bags' to Houston's homeless people,['manual_google_by_location'],"['indirect_city_relation', 'homelessness', 'philanthropy']",['Houston']
+8786,,https://www.nbcdfw.com/news/local/texas-news/houston-to-give-1200-in-relief-to-neediest-residents/2495441/,Build a network of energy hubs,"Houston to Give $1,200 in Relief to Neediest Residents",['manual_google_by_location'],"['policy', 'inequality']",['Houston']
+8787,,https://abcnews.go.com/Health/wireStory/feeding-houstons-hungry-1m-pounds-food-daily-needy-73828986,,Feeding Houston's hungry: 1M pounds of food daily for needy,['manual_google_by_location'],"['food', 'inequality']",['Houston']
+8788,,https://communityimpact.com/houston/heights-river-oaks-montrose/parks-recreation/2020/11/03/city-announces-parking-security-plan-ahead-of-houston-open-at-memorial-park/,"The city should build neighborhood energy hubs to store energy in large-capacity smart grid batteries, and secondarily act as recharge stations, bike storage, drop-off centers, civic spaces, or last-mile freight hubs. Placing energy hubs throughout New York City�s neighborhoods would not only build energy resiliency within communities but act as colorful and aesthetically important symbols of each neighborhood. These colorful iconographic structures would be designed to reflect New York City's neighborhood identities and needs, instantly becoming 21st century icons on the urban landscape.","City announces parking, security plan ahead of Houston Open at Memorial Park",['manual_google_by_location'],['not_sure'],['Houston']
+8789,,https://www.houstonpublicmedia.org/articles/news/business/2020/09/22/382490/clean-energy-tech-incubator-to-move-into-former-midtown-fiesta/,,Clean Energy Tech Incubator To Move Into Former Midtown Houston Fiesta – Houston Public Media,['manual_google_by_location'],"['energy', 'urban_tech']",['Houston']
+8790,,https://abc13.com/city-of-houston-musicians-and-music-venues-economic-relief-program-live-multi-million-fund--arts/7877996/,Construct stormwater storage structures in low-lying neighborhoods,Houston City Council approves multi-million relief fund to help local musicians and venues,['manual_google_by_location'],"['entertainment', 'financial']",['Houston']
+8791,,https://www.houstonchronicle.com/about/houston-gives/article/Houston-Endowment-is-a-big-backer-of-city-s-15594515.php,,Houston Endowment is a big backer of city’s nonprofits,['manual_google_by_location'],['philanthropy'],['Houston']
+8792,,https://www.houstonpublicmedia.org/articles/news/transportation/2020/09/04/381061/city-is-planning-major-changes-to-busy-southwest-houston-corridor/,"Building depressed roadways, parking lots, or parks along flood-prone coastline can help to temporarily store stormwater during extreme flood events. In addition, these projects can be multipurpose, with green infrastructure built above to provide win-win resilience and quality of life improvements. Areas that flood often, such as the Hudson River Park, FDR Drive, the BQE, and the Major Deegan Expressway should be prioritized.",City Is Planning Major Changes To Busy Southwest Houston Corridor – Houston Public Media,['manual_google_by_location'],"['planning_&_design', 'walkability', 'bicycle']",['Houston']
+8793,,https://abc13.com/mental-health-townhall-houston-mayor-sylvester-turner-covid-19-pandemic-tips-during-covid-19/7859283/,,Houston hosting free mental health virtual town hall meeting on surviving pandemic during the holidays,['manual_google_by_location'],['health'],['Houston']
+8794,,https://wtop.com/dc/2020/12/dc-schools-graduation-rate-ticks-up/,Pat Sapinsley,Nearly 71% of DC students graduated last year,['manual_google_by_location'],['school'],['Washington']
+8795,,https://www.fox5dc.com/news/dc-attacker-struck-woman-in-the-face-with-a-rock-repeatedly-shouted-shut-up-and-stop-fighting-cops,,"DC attacker struck woman in the face with a rock repeatedly, shouted ‘shut up and stop fighting:’ cops",['manual_google_by_location'],['crime_incident'],['Washington']
+8796,,https://www.fox5dc.com/video/877040,Managing Director of Cleantech Initiatives,DC police looking for suspect who attacked woman with a rock,['manual_google_by_location'],['crime_incident'],['Washington']
+8797,,https://patch.com/district-columbia/georgetown/study-shows-access-healthy-meals-boosts-dc-youths-well-being,,Study Shows Access To Healthy Meals Boosts DC Youth's Well Being,['manual_google_by_location'],"['health', 'food']",['Washington']
+8798,,https://patch.com/georgia/across-ga/atlanta-s-perfect-score-leads-georgia-cities-gay-friendly-policies,"Urban Future Lab, NYU Tandon",Atlanta's Perfect Score Leads Georgia Cities With Gay Friendly Policies,['manual_google_by_location'],[],['Atlanta']
+8799,,https://www.wsbtv.com/news/local/member-untouchable-gorilla-stone-nation-believed-be-atlanta-area-fbi-says/WHW6BRJVX5HNNNLMB52EITC2KM/,,"Member of ’Untouchable Gorilla Stone Nation’ believed to be in the Atlanta area, FBI says",['manual_google_by_location'],"['crime', 'indirect_city_relation']",['Atlanta']
+8800,,https://www.atlantadowntown.com/blog/holiday-happenings-in-downtown-atlanta-2020,"Deploy a climate corps to install energy retrofits in all buildings over 25,000 square feet",Holiday Happenings in Downtown Atlanta,['manual_google_by_location'],"['entertainment', 'public_space', 'not_sure']",['Atlanta']
+8801,,https://www.bostonglobe.com/2020/12/05/metro/story-behind-boston-police-detective-who-benefited-two-police-coverups/,,The story behind a Boston police detective who benefited from two police coverups,['manual_google_by_location'],"['police', 'not_sure']",['Boston']
+8802,,https://www.bostonherald.com/2020/12/05/boston-will-have-access-to-30m-in-mbta-money-for-bus-lanes/,"In order to meet the city�s ambitious emissions reductions targets within the next decade, thousands of New York�s older residential, office, and municipal buildings will need major retrofits to reduce building energy usage and carbon emissions. As part of a climate corps, a workforce should be trained in specific building energy efficiency upgrades. To achieve the city�s 40 percent emissions reductions targets by the 2030 deadline, a workforce of nearly 150,000 people is needed. Funds could be made available via the PACE program for all commercial tenants and building owners. Green City Force, which enlists and trains people from low income housing communities in sustainable careers, can act as the workforce training model.",Boston will have access to $30M in MBTA money for bus lanes,['manual_google_by_location'],['transportation'],['Boston']
+8803,,http://jamaicaplaingazette.com/2020/12/04/city-of-boston-to-offer-two-hours-of-free-parking-on-saturdays/,,City of Boston to Offer Two Hours of Free Parking on Saturdays – Jamaica Plain Gazette,['manual_google_by_location'],"['public_announce', 'not_sure']",['Boston']
+8804,,https://www.bostonherald.com/2020/12/05/boston-positive-test-rate-crosses-citys-threshold-for-concern/,Upgrade energy transmission lines,Boston coronavirus positive test rate crosses city’s ‘threshold for concern’,['manual_google_by_location'],['health'],['Boston']
+8805,,https://ktar.com/story/3730955/south-phoenix-light-rail-extension-gets-638-million-in-federal-funding/,,South Phoenix light rail extension gets $638 million in federal funding,['manual_google_by_location'],"['transportation', 'financial']",['Phoenix']
+8806,,https://www.abc15.com/news/business/phoenix-airport-workers-ask-city-to-investigate-claims-of-age-sex-discrimination,"In order to deliver green power to the city, our transmission lines need a serious upgrade, and doing so will create many new jobs. The renewable energy we currently have in New York is almost entirely outside of the city�large wind and solar farms in upstate New York, and hydropower from Niagara Falls and Canada. In order to bring clean energy into NYC, we must increase our transmission capacity. These new construction projects can be also focused on the locations needed for the large offshore wind energy projects currently planned.","Phoenix airport workers ask city to investigate claims of age, sex discrimination",['manual_google_by_location'],['not_sure'],['Phoenix']
+8807,,https://ktar.com/story/3731690/phoenix-fire-department-rescues-injured-woman-from-south-mountain/,,Phoenix Fire Department rescues injured woman from South Mountain,['manual_google_by_location'],"['accident', 'indirect_city_relation']",['Phoenix']
+8808,,https://www.signalsaz.com/articles/phoenix-named-a-top-10-digital-cities-winner-for-seventh-consecutive-year/,"Repurpose public land into renewable power plants, microgrids, and energy storage",Phoenix Named a Top 10 Digital Cities Winner for Seventh Consecutive Year,['manual_google_by_location'],['urban_tech'],['Phoenix']
+8809,,https://www.fox10phoenix.com/news/phoenix-police-searching-for-suspects-in-gas-station-robbery,,Phoenix Police searching for suspects in gas station robbery,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Phoenix']
+8810,,https://www.fox10phoenix.com/news/video-shows-phoenix-police-using-flashbang-to-end-standoff-incident-following-traffic-stop,"Replacing fossil fuel-based power plants with renewable energy plus long duration energy storage facilities has been shown to result in significant cost savings in healthcare as well as job opportunities for the surrounding communities. Rikers Island is especially well-suited for this conversion, and has growing support as evidenced in the Renewable Rikers Act.",Video shows Phoenix Police using flashbang to end standoff incident following traffic stop,['manual_google_by_location'],"['indirect_city_relation', 'police']",['Phoenix']
+8811,,https://www.westsideseattle.com/ballard-news-tribune/2020/12/04/city-seattle-announces-5-million-new-grants-support-small,,City of Seattle announces $5 Million in new grants to support small businesses and workers,['manual_google_by_location'],['employment'],['Seattle']
+8812,,https://www.seattlemet.com/health-and-wellness/2020/12/how-can-seattle-lead-the-way-to-a-more-inclusive-running-industry-brooks,Emily Nobel Maxwell,How Can Seattle Lead the Way to a More Inclusive Running Industry?,['manual_google_by_location'],[],['Seattle']
+8813,,https://www.capitolhillseattle.com/2020/12/amid-seattles-big-issues-around-policing-community-meeting-digs-through-the-nitty-gritty-of-2020-crime-in-the-east-precinct/,,"Amid Seattle’s big issues around policing, community meeting digs through the nitty gritty of 2020 crime in the East Precinct",['manual_google_by_location'],['crime'],['Seattle']
+8814,,https://abc7news.com/sf-playgrounds-open-regional-stay-at-home-order-san-francisco-is-closing-down-again/8542513/,New York Cities Program Director,'Very frustrating': Children react to last weekend of playgrounds open in San Francisco ahead of shutdown,['manual_google_by_location'],['public_space'],['San Francisco']
+8815,,https://www.sfchronicle.com/politics/article/S-F-releases-most-detailed-plan-yet-for-homeless-15777543.php,,S.F. releases most detailed plan yet for homeless living in hotels. Here’s what’s at stake,['manual_google_by_location'],"['homelessness', 'policy']",['San Francisco']
+8816,,https://abc7news.com/san-francisco-stay-at-home-order-ca-regional-is-closing-down-again-california/8566101/,The Nature Conservancy,"'It's my only job': San Francisco restaurant, salon workers face layoffs as stay-at-home order begins",['manual_google_by_location'],['employment'],['San Francisco']
+8817,,https://namisanmateo.org/san-francisco-launches-street-crisis-response-team-to-respond-to-mental-health-calls/,,San Francisco Launches Street Crisis Response Team To Respond To Mental Health Calls.,['manual_google_by_location'],['health'],['San Francisco']
+8818,,https://www.ktvu.com/news/san-franciscos-ability-to-contact-trace-could-soon-reach-breaking-point,"Boost green roof installation, starting with city property",San Francisco’s ability to contact trace could soon reach breaking point,['manual_google_by_location'],['health'],['San Francisco']
+8819,,https://sanfrancisco.cbslocal.com/2020/12/05/protest-in-support-of-indian-farmers-slows-traffic-on-bay-bridge/,,Protest In Support Of Indian Farmers Slows Traffic On Bay Bridge,['manual_google_by_location'],"['transportation', 'protest']",['San Francisco']
+8820,,https://thebolditalic.com/do-you-know-your-neighborhood-trees-in-sf-heres-a-guide-3490bc4951c1,"There are about a million buildings in New York City, but of those million buildings, in 2016 only an estimated 736 had green roofs�roofs that are partially or completely covered with vegetation, a growing medium such as soil, waterproofing, and a drainage system. Green roofs improve air quality, enhance insulation, and increase building energy efficiency, while also reducing the urban heat island effect and absorbing stormwater. In addition to improving tax incentives to help expand private green roof installation, we should be maximizing green roofs on publicly owned property, prioritizing those facilities that may either be facing higher carbon emissions and/or present opportunities for public engagement, especially of New York City youth. School buildings in particular are well-suited for green roofing, in part because many have large, flat roofs. School buildings also use a significant amount of energy, creating a lot of carbon emissions, and so they are ripe for improvements to their energy efficiency. And if done right, green roofs on schools also create spaces for youth outdoor education and recreation. If green roofing were implemented on a much broader scale, especially on public property where the city exercises control over the building stock, there�s also significant potential for job creation.",Do You Know Your Neighborhood Trees in SF? Here’s a Guide.,['manual_google_by_location'],['public_space'],['San Francisco']
+8821,,https://abc7news.com/san-francisco-police-shooting-harrison-street-man-injured/8500233/,,Police searching for suspect after man injured in San Francisco shooting,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['San Francisco']
+8822,,https://eu.detroitnews.com/story/news/local/detroit-city/2020/12/05/detroit-activist-every-little-bit-helps-fight-crime/6325458002/,Restore and expand New York City�s urban forest,Detroit activist: 'Every little bit helps' to fight crime,['manual_google_by_location'],"['crime', 'not_sure']",['Detroit']
+8823,,https://www.wxyz.com/news/vigil-held-saturday-for-20-year-old-fatally-shot-inside-vehicle-in-detroit,,Vigil held Saturday for 20-year-old fatally shot inside vehicle in Detroit,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Detroit']
+8824,,https://www.miheadlines.com/2020/12/05/violent-parole-absconder-from-detroit-arrested-in-vermont/,"New York City�s urban forest�all the trees across the city�cools the air, offers shady respite from heat, sequesters carbon, increases energy efficiency, and contributes to New Yorkers� health and wellbeing. But trees are not evenly distributed across the city. In fact, the most heat vulnerable neighborhoods tend to be low-income communities or communities of color with less tree cover, and these communities should be prioritized for investments. The city should invest in restoring, maintaining, and expanding its urban forest on city streets, in our parks, and especially on NYCHA campuses�many of which are located in heat-vulnerable neighborhoods. Investments both to manage and protect existing trees and to increase trees in areas with less are crucial to providing more equitable access to the benefits of trees, from shade and cooling to mental health, all even more important in the COVID-19 era. Increased plantings and access upgrades can improve open spaces throughout the city while also making New York more resilient to the effects of climate change and providing great green jobs for New Yorkers.",Violent Parole Absconder from Detroit Arrested in Vermont,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Detroit']
+8825,,https://www.wxyz.com/news/coronavirus/detroit-church-educates-parishioners-amid-concerns-about-racial-disparities-with-covid-19-vaccine,,Detroit church educates parishioners amid concerns about racial disparities with COVID-19 vaccine,['manual_google_by_location'],"['health', 'inequality']",['Detroit']
+8826,,https://www.metrotimes.com/city-slang/archives/2020/12/04/detroit-jazz-duo-anti-philosophy-make-music-for-these-tumultuous-times,Adam Freed & Jake Elder,Detroit jazz duo Anti-Philosophy make music for these tumultuous times,['manual_google_by_location'],"['entertainment', 'indirect_city_relation']",['Detroit']
+8827,,https://www.deadlinedetroit.com/articles/26810/detroiter_bribed_homeless_woman_with_coney_for_help_in_fraud_scheme,,Detroit man bribed homeless woman with coney for help in fraud scheme,['manual_google_by_location'],"['crime_incident', 'homelessness', 'indirect_city_relation']",['Detroit']
+8828,,https://eu.detroitnews.com/story/news/local/detroit-city/2020/12/04/court-voids-detroit-murder-conviction-dispute-over-expert/3828696001/,Principal; Manager,Court voids murder conviction in dispute over expert,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Detroit']
+8829,,https://www.dbusiness.com/daily-news/breadless-sandwich-restaurant-to-open-near-detroits-riverfront/,,Breadless Sandwich Restaurant to Open Near Detroit’s Riverfront,['manual_google_by_location'],"['indirect_city_relation', 'restaurant']",['Detroit']
+8830,,https://www.fox2detroit.com/news/family-traumatized-after-shots-were-fired-into-their-east-side-home,Bloomberg Associates,Family traumatized after shots were fired into their Detroit home,['manual_google_by_location'],"['crime_incident', 'gun', 'indirect_city_relation']",['Detroit']
+8831,,https://eu.detroitnews.com/story/news/local/detroit-city/2020/12/04/man-killed-while-sitting-car-detroits-west-side/3821602001/,,Man killed while sitting in car on Detroit's west side,['manual_google_by_location'],"['crime_incident', 'gun', 'indirect_city_relation']",['Detroit']
+8832,,https://www.wxyz.com/news/making-a-difference-building-a-legacy-one-detroit-block-at-a-time,"Incentivize building owners to replace gas boilers with electric units, and invest in upgrades to the energy grid so NYC can bring enough clean power to electrify buildings","Making a difference: Building a legacy, one Detroit block at a time",['manual_google_by_location'],['not_sure'],['Detroit']
+8833,,https://www.10news.com/news/local-news/san-diego-county-attractions-prepare-to-close-amid-new-stay-at-home-orders,,San Diego County attractions prepare to close amid new stay-at-home orders,['manual_google_by_location'],['public_space'],['San Diego']
+8834,,https://www.nbcsandiego.com/news/local/our-hospitals-are-overflowing-san-diego-icu-nurse-describes-covid-19-hospitalizations/2463510/,"Natural gas and heating oil account for the majority of greenhouse gas emissions in New York�s buildings, making the electrification of buildings across the five boroughs crucial to achieving our climate goals. And although the city�s ambitious energy performance standards have been a big help, they are unlikely to spur the kind of large-scale replacement of gas boilers that is critically needed. The federal government can help by instituting a �Bucks for Boilers� program�similar to the old Cash for Clunkers vehicle program�that incentivizes building owners to swap out inefficient gas boilers with cleaner electric or geothermal units. However, a big move to electrify buildings could triple demand on the city�s electrical system. New York will need to make major new investments to upgrade the transmission and distribution lines that bring clean electricity from other parts of the state into the city. Most important will be a dramatic increase in investment in renewable energy; above and beyond the state�s already ambitious plans. A federal public works program could provide critical capital to make these happen.",‘Our Hospitals Are Overflowing': San Diego ICU Nurse Describes COVID-19 Hospitalizations,['manual_google_by_location'],['health'],['San Diego']
+8835,,https://patch.com/california/san-diego/man-shot-porch-logan-heights-home,,Man Shot On Porch At Logan Heights Home,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['San Diego']
+8836,,https://timesofsandiego.com/business/2020/12/06/marketink-san-diegos-basic-agency-acquired-by-global-european-giant/,Replace expressways with boulevards,MarketInk: San Diego’s BASIC Agency Acquired by Global European Giant,['manual_google_by_location'],"['employment', 'indirect_city_relation']",['San Diego']
+8837,,http://www.sdnews.com/view/full_story/27784677/article-City-Planning-Commission-supports-proposed-short-term-rental-ordinance--?instance=bbp,,City Planning Commission supports proposed short term rental ordinance,['manual_google_by_location'],"['housing', 'policy']",['San Diego']
+8838,,https://www.sandiegouniontribune.com/news/courts/story/2020-12-06/san-diego-da-investigating-at-least-5-million-in-suspected-unemployment-fraud-by-local-inmates,"Construction of the Sheridan and Gowanus expressways left surrounding communities isolated and stuck with some of the worst environmental, health, and economic conditions in the city. New York can begin to undo the damage to those communities by tearing down the two barrier expressways and replacing them with tree-lined boulevards, making the neighborhoods greener, safer, healthier, and more resilient. This could also free up land for more affordable housing and other community assets. The federal government could cover the planning grants and�most importantly�construction costs to get these resiliency projects off and running.",San Diego DA investigating at least $5 million in suspected unemployment fraud by local inmates,['manual_google_by_location'],['not_sure'],['San Diego']
+8839,,https://timesofsandiego.com/business/2020/12/05/average-san-diego-county-gas-price-drops-slightly/,,Average San Diego County Gas Price Drops Slightly,['manual_google_by_location'],['not_sure'],['San Diego']
+8840,,https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2020-12-06/readers-react-san-diego-awaits-a-better-policing-policy,Create a sponge city,Readers React: San Diego awaits a better policing policy,['manual_google_by_location'],"['police', 'crime', 'policy']",['San Diego']
+8841,,https://www.kusi.com/man-accused-of-murdering-local-woman-in-1969-in-san-diego-facing-charges/,,"Man accused of murdering local woman in 1969 in San Diego, facing charges -",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['San Diego']
+8842,,https://www.10news.com/news/local-news/san-diego-nonprofit-changing-lives-through-books,"With more intense storms and more regular flooding expected in New York for years to come, it�s time to follow China�s lead, which is aiming to capture more than half of the rainwater that falls on its cities, and create a �sponge city�. Every inch of rain that falls on New York generates a billion gallons of stormwater. Better managing this risk requires massive new investments to green surfaces across the city combined with more aggressive efforts to upgrade the infrastructure underground to handle more water. This can help save money, reduce flooding, improve the quality of neighborhoods, and prepare us for the increasing impacts of climate change. A federal infrastructure plan that invests more in urban water systems could provide precious resources to make this happen.",San Diego nonprofit changing lives through books,['manual_google_by_location'],['philanthropy'],['San Diego']
+8843,,https://www.10news.com/news/coronavirus/san-diego-businesses-hope-to-spike-business-ahead-of-more-closures,,San Diego businesses hope to spike business ahead of more closures,['manual_google_by_location'],['employment'],['San Diego']
+8844,,http://www.sdnews.com/view/full_story/27784437/article-City-Attorney-charges-serial-parking-lot-stalker-?instance=bbp,Clare Miflin,City Attorney charges serial parking lot stalker,['manual_google_by_location'],['crime'],['San Diego']
+8845,,https://www.kusi.com/deputies-search-for-suspect-after-shooting-at-east-county-pot-dispensary-leaves-one-wounded/,,Deputies search for suspect after shooting at East County pot dispensary leaves one wounded -,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['San Diego']
+8846,,https://www.10news.com/news/local-news/san-diego-news/woman-injured-by-hit-and-run-driver-in-midway-district,Founder,Woman injured by hit-and-run driver in Midway District,['manual_google_by_location'],"['indirect_city_relation', 'accident']",['San Diego']
+8847,,https://www.startribune.com/new-look-on-cedar-avenue-causing-drivers-fits/573310571/,,New look on busy stretch of Cedar Avenue in south Minneapolis is giving drivers fits,['manual_google_by_location'],"['indirect_city_relation', 'transportation']",['Minneapolis']
+8848,,https://www.startribune.com/despite-cold-and-park-board-pleas-homeless-encampments-persist-in-three-parks/573311821/,Center for Zero Waste Design,"Despite cold and Park Board pleas, homeless camps persist in three Minneapolis parks",['manual_google_by_location'],['homelessness'],['Minneapolis']
+8849,,https://www.startribune.com/minneapolis-council-divided-over-whether-to-redirect-money-from-police/573305411/,,Minneapolis City Council divided over whether to redirect money from police,['manual_google_by_location'],['police'],['Minneapolis']
+8850,,https://streets.mn/2020/12/04/building-height-limits-are-delaying-affordable-housing/,Provide space and technology for consolidated waste collection,Why are Building Height Limits in Minneapolis 2040 Delaying Affordable Housing in Whittier?,['manual_google_by_location'],"['planning_&_design', 'housing']",['Minneapolis']
+8851,,https://kstp.com/news/minneapolis-city-leaders-continue-debate-police-funding-time-ticks-down-on-full-budget-vote/5941894/,,Minneapolis city leaders continue debate over police funding as time ticks down on full budget vote,['manual_google_by_location'],"['police', 'financial']",['Minneapolis']
+8852,,https://wjon.com/student-injured-in-chemical-explosion-at-campus-laboratory/,"The city�s organic waste system of small bins collected door-to-door was cut because it was inefficient, expensive, and only collected a small fraction of the city�s organic waste. By providing space and technologies for consolidated organic waste collection and distributed small-scale composting, the city could reduce costs and increase capacity and local benefits. Regenerating local soils will create green jobs, support urban greening and agriculture, and reduce the inequitable impacts of trucks, air pollution and greenhouse gases.",Student Injured in Chemical Explosion at Campus Laboratory,['manual_google_by_location'],"['accident', 'indirect_city_relation']",['Minneapolis']
+8853,,https://kstp.com/news/minneapolis-woman-keeping-those-in-need-warm-by-supplying-winter-clothes/5941411/,,Minneapolis woman keeping those in need warm by supplying winter clothing,['manual_google_by_location'],"['philanthropy', 'indirect_city_relation']",['Minneapolis']
+8854,,https://mndaily.com/264343/news/campus-crime-update-fall-sees-major-crime-upticks-for-university-neighborhoods/,Design and distribute curbside organic waste containers,Campus crime update: Fall sees major crime upticks for University neighborhoods,['manual_google_by_location'],['crime'],['Minneapolis']
+8855,,https://tcbmag.com/life-time-work-full-steam-ahead-on-downtown-minneapolis-location/,,Life Time Work: Full Steam Ahead on Downtown Minneapolis Location,['manual_google_by_location'],['not_sure'],['Minneapolis']
+8856,,https://patch.com/florida/southtampa/super-effort-score-kid-friendly-books-games-sports-equipment,"Designing containers into streetscapes allows drop-off for residents and small businesses, frees up space on sidewalks, and reduces odors and rats. Digital technology can be used to restrict access, reduce contamination, charge businesses, incentivize resident use, and reduce collection trips. Low impact vehicles can collect waste and take to local compost operations.","Super Effort to Score Kid-Friendly Books, Games, Sports Equipment",['manual_google_by_location'],['philanthropy'],['Tampa']
+8857,,https://www.abcactionnews.com/news/driving-tampa-bay-forward/plant-city-families-hoping-for-new-express-bus-route-to-downtown-tampa,,Plant City families hoping for new express bus route to Downtown Tampa,['manual_google_by_location'],['transportation'],['Tampa']
+8858,,https://www.fox13news.com/news/suspect-in-murder-of-80-year-old-tampa-woman-arrested-deputies-say,Develop neighborhood-scale composting infrastructure,"Suspect in murder of 80-year-old Tampa woman arrested, deputies say",['manual_google_by_location'],"['crime_incident', 'murder', 'indirect_city_relation']",['Tampa']
+8859,,https://www.tampabay.com/news/real-estate/2020/12/04/is-a-new-publix-part-of-next-phase-of-tampas-west-river-project/,,Is a new Publix part of next phase of Tampa’s West River project?,['manual_google_by_location'],['planning_&_design'],['Tampa']
+8860,,https://www.tampabayparenting.com/article/a-new-way-to-see-tampa-bay-a-family-cargo-bike/,"Equipment in large buildings can reduce odors, pests and the volume of organic waste by up to 90 percent, making it easier for understaffed and space-constrained buildings to manage. Investments in local composting infrastructure can increase processing capacities greatly, and excess organic material could be returned to the regional farm system.",A New Way to See Tampa Bay: A Family Cargo Bike,['manual_google_by_location'],"['indirect_city_relation', 'bicycle']",['Tampa']
+8861,,https://www.tampabay.com/news/crime/2020/12/04/tampa-men-now-face-federal-charges-in-october-robberies/,,Tampa men now face federal charges in October robberies,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Tampa']
+8862,,https://www.abcactionnews.com/news/region-hillsborough/deputies-searching-for-shooter-after-woman-found-dead-in-hillsborough-county,Chris Collins,"Deputies arrest man after he shot, killed woman in Tampa",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['Tampa']
+8863,,https://patch.com/florida/southtampa/33-year-old-pedestrian-killed-north-florida-avenue-tampa,,33-Year-Old Pedestrian Killed On North Florida Avenue In Tampa,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Tampa']
+8864,,https://www.westword.com/news/denver-early-intervention-team-focuses-on-small-homeless-encampments-11854525,Executive Director,Denver New Early Intervention Team Focuses on Small Encampments,['manual_google_by_location'],[],['Denver']
+8865,,https://denver.cbslocal.com/2020/12/06/denver-community-fridges-food/,,Community Fridges Tackle Food Insecurity In Denver,['manual_google_by_location'],['food'],['Denver']
+8866,,https://303magazine.com/2020/12/denver-fashion-identity/,Solar One,How Denver Developed Its Fashion Identity,['manual_google_by_location'],[],['Denver']
+8867,,https://denver.cbslocal.com/2020/12/04/denver-public-schools-sexual-assault-rape-culture/,,Students In Denver Public Schools Working With Administrators To Eradicate ‘Rape Culture’,['manual_google_by_location'],"['rape', 'crime']",['Denver']
+8868,,https://www.denverpost.com/2020/12/03/denver-homeless-community-church-uptown/,Install solar and battery storage on Rikers Island,Denver’s second sanctioned homeless encampment receives permit,['manual_google_by_location'],"['homelessness', 'indirect_city_relation']",['Denver']
+8869,,https://baltimore.cbslocal.com/2020/12/06/baltimore-woman-who-ran-unlicensed-assisted-living-facilities-pleads-guilty-to-neglect-of-vulnerable-adult-resulting-in-death/,,Baltimore Woman Who Ran Unlicensed Assisted Living Facilities Pleads Guilty To Neglect Of Vulnerable Adult Resulting In Death,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Baltimore']
+8870,,https://baltimore.cbslocal.com/2020/12/04/baltimore-police-officer-struck-along-i-83-north/,"A large public works plan for New York City should include the Renewable Rikers project. Rikers Island is scheduled for closure in 2026, and it would be the perfect location to install solar and battery storage at scale that would, in effect, eliminate a large portion of the nearby peaker plants�higher-polluting power plants that supply electricity only during periods of peak demand. There are parts of Rikers that could be converted to solar immediately to demonstrate the potential of solar and battery storage. The Renewable Rikers plan is being developed by a number of nonprofits and has been proposed in the City Council by Council Member Costa Constantinides.",Baltimore Police: Officer Struck Along I-83 South,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Baltimore']
+8871,,https://baltimore.cbslocal.com/2020/12/05/2-men-injured-in-separate-shootings-across-baltimore-saturday-afternoon-police-say/,,"2 Men Injured In Separate Shootings Across Baltimore Saturday Afternoon, Police Say",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['Baltimore']
+8872,,https://baltimore.cbslocal.com/2020/12/04/police-identify-3-suspects-wanted-in-a-towson-burglary/,Henry Gordon-Smith,Police Identify 3 Suspects Wanted In A Towson Burglary,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Baltimore']
+8873,,https://wtop.com/baltimore/2020/12/baltimore-police-rule-death-of-1-year-old-girl-a-homicide/,,Baltimore police rule death of 1-year-old girl a homicide,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Baltimore']
+8874,,https://baltimore.cbslocal.com/2020/12/04/residents-safe-after-basement-fire-at-ellicott-city-home/,Founding Director,Residents Safe After Basement Fire At Ellicott City Home,['manual_google_by_location'],"['accident', 'indirect_city_relation']",['Baltimore']
+8875,,https://www.pe.com/2020/12/04/family-promise-of-riverside-is-raising-funds-to-open-day-center-for-homeless-families/,,Family Promise of Riverside is raising funds to open day center for homeless families,['manual_google_by_location'],['homelessness'],['Riverside']
+8876,,https://eu.desertsun.com/story/news/crime_courts/2020/12/05/mike-hestrin-said-appeal-judges-dismissal-charges-against-john-wessman/3841028001/,Agritecture,"Riverside County DA says prosecution will appeal dismissal of bribery, corruption charges against developer Wessman",['manual_google_by_location'],"['crime', 'not_sure']",['Riverside']
+8877,,https://www.pe.com/2020/12/02/riverside-city-council-affirms-ethics-violations-by-councilwoman-gaby-plascencia/,,Riverside City Council affirms ethics violations by Councilwoman Gaby Plascencia,['manual_google_by_location'],['not_sure'],['Riverside']
+8878,,https://mynewsla.com/crime/2020/12/04/pair-accused-in-deadly-shooting-at-riverside-hookah-bar-arraigned/,Build floating farms on barges in NYC waterways,Pair Accused in Deadly Shooting at Riverside Hookah Bar Arraigned,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Riverside']
+8879,,https://www.pe.com/2020/12/02/dance-is-a-form-of-expression-for-this-riverside-performer/,,Dance is a form of expression for this Riverside performer,['manual_google_by_location'],"['entertainment', 'indirect_city_relation']",['Riverside']
+8880,,https://mynewsla.com/crime/2020/12/01/woman-who-killed-riverside-man-in-drugged-driving-crash-sentenced/,"The city could enlist a climate corps to construct or retrofit barges to house floating farms and greenhouses. Soil-based agriculture is more conducive to retrofitting barges or boats. Aqua Ark, a four-acre large floating farm structure off the coast of Hunts Point, is already being planned. Similar floating structures would be able to provide a sustainable food source while maintaining resilience against storm surges and sea level rise compared to traditional farms. Additionally, the waterfront provides great access to light and scale you wouldn't typically get in urban areas. These projects would be particularly useful along the Bronx waterfront due to food security needs, the large amount of coastline, and the minimal boat traffic.",Woman Who Killed Riverside Man in Drugged Driving Crash Sentenced,['manual_google_by_location'],"['indirect_city_relation', 'crime_incident']",['Riverside']
+8881,,https://spectrumnews1.com/ca/la-east/homelessness/2020/10/13/housing-complex-for-homeless-lgbtq-youth-with-hiv-planned-in-riverside,,Housing Complex for Homeless LGBTQ Youth With HIV Planned in Riverside,['manual_google_by_location'],['homelessness'],['Riverside']
+8882,,https://www.latimes.com/california/story/2020-10-22/riverside-city-council-passes-anti-racism-vision,"Construct farms on unused, irregular lots",Riverside City Council passes anti-racism vision; mayor challenges residents to have ‘courageous conversations’,['manual_google_by_location'],['policy'],['Riverside']
+8883,,https://news.stlpublicradio.org/show/st-louis-on-the-air/2020-12-04/st-louis-teenagers-are-learning-to-sew-because-children-need-ppe-too,,St. Louis Teenagers Are Learning To Sew — Because Children Need PPE Too,['manual_google_by_location'],"['children', 'indirect_city_relation']",['St. Louis']
+8884,,https://www.ktnv.com/news/coronavirus/housing-prices-continue-to-rise-in-las-vegas-amid-pandemic,"There are countless underutilized spaces along highways and railways that have the potential to be used for urban agriculture. Vacant, often linear plots of land are often overlooked for agricultural purposes but are just as useful as square lots. High Line-type spaces where the city still maintains the right of way along the corridor (such as the land available for the proposed Queensway project) would be good focal points. Similarly, the city should apply this rationale to any unused community space. Unused classrooms or lab spaces in marginalized communities can be converted into food production centers.",Housing prices continue to rise in Las Vegas amid pandemic,['manual_google_by_location'],['housing'],['Las Vegas']
+8885,,https://www.reviewjournal.com/local/motorists-extricated-after-crash-north-of-downtown-las-vegas-2206497/,,Motorists extricated after crash north of downtown Las Vegas,['manual_google_by_location'],"['accident', 'indirect_city_relation']",['Las Vegas']
+8886,,https://www.ktnv.com/news/protesters-at-las-vegas-city-hall-after-homeless-camp-was-torn-down,Develop workforce training in soil/water testing and remediation,Protesters at Las Vegas City Hall after homeless camp was torn down,['manual_google_by_location'],"['homelessness', 'protest', 'indirect_city_relation']",['Las Vegas']
+8887,,https://www.ktnv.com/news/crime/one-dead-after-shooting-in-south-west-las-vegas-valley,,1 dead after shooting in south west Las Vegas valley,['manual_google_by_location'],"['crime_incident', 'gun', 'indirect_city_relation']",['Las Vegas']
+8888,,https://www.reviewjournal.com/crime/robberies/police-solve-burglary-of-victim-who-was-witness-in-rudin-murder-case-2206915/,"Training and apprenticeships in soil/water testing and remediation, as part of a climate corps, could provide a pathway into careers in the environmental field while also helping the city identify and activate unused spaces for urban agriculture. The workforce would be trained how to assess plots of land for agricultural viability, and how to take soil and water samples and assess levels of contamination and remediation needs.",Police solve burglary of victim who was witness in Rudin murder case,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Las Vegas']
+8889,,https://www.reviewjournal.com/crime/stabbings/las-vegas-man-faces-attempted-murder-charge-in-stabbing-of-father-2203152/,,Las Vegas man faces attempted murder charge in stabbing of father,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'murder']",['Las Vegas']
+8890,,https://www.opb.org/article/2020/12/07/portland-oregon-art-park-sound-walk-audio/,Hildegaard Link,Soundwalk series turns Portland’s parks into audio art galleries,['manual_google_by_location'],['public_space'],['Portland']
+8891,,https://www.oregonlive.com/portland/2020/12/feds-link-portland-marijuana-farm-to-texas-college-drug-ring.html,,Feds link Portland marijuana farm to Texas college drug ring,['manual_google_by_location'],['drug'],['Portland']
+8892,,https://www.portlandsocietypage.com/2020/12/05/nonprofits-count-on-year-end-giving-to-help-needy-people-survive-the-pandemic/,"Chair, Resilient Red Hook",Nonprofits Count on Year-End Giving to Help Needy People Survive the Pandemic,['manual_google_by_location'],['philanthropy'],['Portland']
+8893,,https://pamplinmedia.com/pt/9-news/490177-394128-portland-police-investigate-three-gun-crimes-in-two-days,,Portland police investigate three gun crimes in two days,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['Portland']
+8894,,https://bikeportland.org/2020/12/03/portland-continues-rose-lane-transit-push-amid-ridership-electoral-losses-323527,"Director, Sustainability, SEBS Rutgers University","Portland continues ‘Rose Lane’ transit push amid ridership decline, electoral shift",['manual_google_by_location'],['transportation'],['Portland']
+8895,,https://www.mysanantonio.com/news/local/article/SAPD-Man-injured-after-fatal-shooting-at-San-15779776.php,,SAPD: Man injured after fatal shooting at San Antonio apartment complex,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['San Antonio']
+8896,,https://www.sacurrent.com/Flavor/archives/2020/12/05/rosarios-plan-to-demolish-majority-of-san-antonios-el-mirador-building-receives-first-approval,Build energy resilience through community solar,Rosario’s plan to demolish majority of San Antonio's El Mirador building receives first approval,['manual_google_by_location'],['planning_&_design'],['San Antonio']
+8897,,https://www.ksat.com/news/local/2020/12/05/man-arrested-after-firing-gunshots-into-whataburger-in-downtown-san-antonio/,,"Man arrested after firing gunshots into Whataburger in downtown San Antonio, SAPD says",['manual_google_by_location'],"['indirect_city_relation', 'crime_incident', 'gun']",['San Antonio']
+8898,,https://www.expressnews.com/news/local/article/Alamo-reports-support-preserving-San-Antonio-s-15780096.php,"Neighborhoods served by above ground power lines are especially vulnerable to extreme weather. Constructing a microgrid powered by community solar would allow the neighborhood to power residents, businesses, and essential public services during emergencies that often plague the low-lying, coastal communities like Red Hook. Constructing a community grid of solar energy sources would also work to unify neighborhoods. A community solar grid could help to foster a shared sense of ownership within the neighborhood and also respond to the unique needs of local small businesses.",Alamo reports support preserving San Antonio’s Woolworth building and restoring lunch counter central to civil rights history,['manual_google_by_location'],[],['San Antonio']
+8899,,https://www.ksat.com/news/local/2020/12/07/bcso-womans-vehicle-struck-by-gunfire-in-northeast-bexar-county/,,BCSO: Woman’s vehicle struck by gunfire in Northeast Bexar County,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['San Antonio']
+8900,,https://www.ksat.com/news/local/2020/12/07/14-year-old-boy-shot-in-critical-condition-following-south-side-shooting-police-say/,Amy Chester,Authorities identify 14-year-old boy fatally shot on San Antonio’s South Side,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['San Antonio']
+8901,,https://patch.com/texas/sanantonio/san-antonio-resolution-recognize-world-migratory-bird-day-local-efforts-achieve,,"San Antonio: Resolution To Recognize World Migratory Bird Day, Local Efforts To Achieve ""Bird City Texas"" Designation Approved",['manual_google_by_location'],['not_sure'],['San Antonio']
+8902,,https://sacramento.cbslocal.com/2020/12/06/sacramento-business-owners-anticipate-tighter-restrictions-as-san-joaquin-valley-enforces-stay-at-home-order/,Managing Director,Sacramento Business Owners Anticipate Tighter Restrictions As San Joaquin Valley Enforces Stay-At-Home Order,['manual_google_by_location'],['employment'],['Sacramento']
+8903,,https://sacramento.cbslocal.com/2020/12/07/south-sac-highway-99-mlk-on-ramp-shooting/,,Deputies Investigating After Shooting Victim Found In Car On Highway 99 On-Ramp,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['Sacramento']
+8904,,https://www.mercurynews.com/2020/12/05/when-it-comes-to-obscurity-no-citys-better-known-than-san-jose-got-it/,Rebuild by Design,"When it comes to obscurity, no city’s better known than San Jose. Got it?",['manual_google_by_location'],[],['San Jose']
+8905,,https://www.sanjoseinside.com/news/historic-foundation-sues-to-block-levitt-pavilion-at-st-james-park/,,Historic Foundation Sues City of San Jose Over Levitt Pavilion Project at St. James Park,['manual_google_by_location'],['public_space'],['San Jose']
+8906,,https://www.mercurynews.com/2020/12/05/preservationist-group-seeks-to-block-redesign-plans-for-st-james-park/,"Protect Hunts Point from flooding and sea level rise, and make its fresh market accessible to the nearby community",Preservationist group seeks to block plans for performing arts venue in St. James Park,['manual_google_by_location'],['public_space'],['San Jose']
+8907,,https://abc7news.com/san-jose-tree-rental-our-city-forest-sj-holiday-rent-ca-reforest-trees/8504975/,,Our City Forest nursery in San Jose encourages renting a holiday tree this season,['manual_google_by_location'],['sustainability'],['San Jose']
+8908,,https://patch.com/california/campbell/san-jose-bans-natural-gas-new-commercial-buildings,"The meat, fish and produce markets of Hunts Point serve as the main food supply hub for New York City, but the low-lying peninsula is cut off from the nearby residential community and vulnerable to flooding. Previous funding has been used to provide backup energy generation, but more is needed to improve flood protections and ensure local residents have better access to fresh food from Hunts Point�s wholesale markets.",San Jose Bans Natural Gas In New Commercial Buildings,['manual_google_by_location'],"['sustainability', 'energy']",['San Jose']
+8909,,https://sanfrancisco.cbslocal.com/2020/12/01/homeless-encampment-goes-up-in-flames-in-san-jose/,,Homeless Encampment Goes Up In Flames In San Jose,['manual_google_by_location'],"['accident', 'indirect_city_relation']",['San Jose']
+8910,,https://sanjosespotlight.com/housing-program-for-south-bay-veterans-marks-milestone/,Extend Manhattan�s coastal resiliency projects up the west side,Housing program for South Bay veterans marks milestone,['manual_google_by_location'],"['housing', 'policy']",['San Jose']
+8911,,https://www.mercurynews.com/2020/12/03/from-free-parking-to-delivery-fees-caps-san-jose-considers-new-plans-to-help-its-downtown-businesses/,,"Free parking, delivery fees caps? San Jose considers new aid for struggling downtown businesses",['manual_google_by_location'],['employment'],['San Jose']
+8912,,https://www.wftv.com/news/9investigates/nearly-200-arrests-made-1300-guns-confiscated-orange-county-orlando-work-crack-down-gang-violence/FBJMHXDOYZA2LAC6OQ74FJKUBU/,"Lower Manhattan is uniquely vulnerable to floodwater, storms, and other climate change impacts. But while there is funding in place for coastal protection from 25th Street on the East side around to Chambers Street on the West side, the floodplain extends all the way up to 57th Street. The city should develop a project funding plan to use new federal funding to extend coastal resiliency measures up the vulnerable West side of Manhattan.","Nearly 200 arrests made, 1,300 guns confiscated as Orange County, Orlando work to crack down on gang violence",['manual_google_by_location'],['crime'],['Orlando']
+8913,,https://www.fox35orlando.com/news/orlando-man-accused-of-squandering-millions-of-dollars-belonging-to-puerto-rican-city,,Orlando man accused of squandering millions of dollars belonging to Puerto Rican city,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Orlando']
+8914,,https://bungalower.com/2020/12/07/funds-available-to-support-tech-focused-events/,Judah Asimov,Funds available to support tech-focused events,['manual_google_by_location'],['urban_tech'],['Orlando']
+8915,,https://bungalower.com/2020/12/06/city-of-orlando-looking-to-extend-scooter-pilot-program/,,City of Orlando looking to extend Scooter Pilot Program,['manual_google_by_location'],"['transportation', 'policy']",['Orlando']
+8916,,https://www.news5cleveland.com/open/cleveland-based-charter-bus-company-installing-uv-lighting-that-continually-disinfects-buses,"Senior Manager, Planning & Outreach",Cleveland-based charter bus company installing UV lighting that continually disinfects buses,['manual_google_by_location'],"['transportation', 'health']",['Cleveland']
+8917,,https://www.crainscleveland.com/education/cleveland-metropolitan-school-district-fortifies-career-paths-strong-industry,,Cleveland Metropolitan School District fortifies career paths with strong industry partnerships,['manual_google_by_location'],"['school', 'employment']",['Cleveland']
+8918,,https://www.crainscleveland.com/letters-editor/letters-editor-reasons-optimism-downtown-cleveland,Rockaway Initiative for Sustainability and Equity (RISE),Letters to the editor: Reasons for optimism for downtown Cleveland,['manual_google_by_location'],['employment'],['Cleveland']
+8919,,https://www.ideastream.org/news/cleveland-hostel-to-offer-winter-shelter-for-city-homeless,,Cleveland Hostel To Offer Winter Shelter For City Homeless,['manual_google_by_location'],['homelessness'],['Cleveland']
+8920,,https://www.news5cleveland.com/news/local-news/oh-cuyahoga/lakewood-police-issue-reminder-to-be-aware-of-your-surroundings-after-brazen-crime,Enhance Rockaways� dunes,Lakewood police issue reminder to be aware of your surroundings after brazen crime,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Cleveland']
+8921,,https://www.cleveland.com/community/2020/12/woman-accused-of-drug-store-theft-nabbed-in-stolen-auto-shaker-heights-police-blotter.html,,Woman accused of drug store theft nabbed in stolen auto: Shaker Heights Police Blotter,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'drug']",['Cleveland']
+8922,,https://www.cleveland19.com/2020/12/05/juveniles-arrested-after-police-chase-that-began-east-cleveland-ends-city-with-fiery-crash/,"The Rockaways� dunes are the community�s first line of defense against increased storms and sea level rise from climate change, but they are in dire need of strengthening. A grant from the National Fish and Wildlife Foundation allowed for preliminary design and assessment, but now the community needs more funding to implement the design to enhance the dunes and increase biodiversity.",3 juveniles arrested after police chase that began in East Cleveland ends in the city with a fiery crash,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Cleveland']
+8923,,https://pittsburgh.cbslocal.com/2020/12/07/pittsburgh-puppy-scam-arrested/,,Man Arrested In Connection With Online Puppy Scam Exploiting Pittsburgh-Area Residents,['manual_google_by_location'],"['indirect_city_relation', 'crime_incident']",['Pittsburgh']
+8924,,https://www.wesa.fm/post/despite-cold-weather-pittsburghers-can-still-safely-enjoy-outdoors#stream/0,Raise the streets,"Despite Cold Weather, Pittsburghers Can Still Safely Enjoy The Outdoors",['manual_google_by_location'],"['public_space', 'safety', 'weather']",['Pittsburgh']
+8925,,https://www.wcpo.com/news/local-news/warren-county/cincinnati-man-sentenced-in-warren-county-human-trafficking-case,,Cincinnati man sentenced in Warren County human trafficking case,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Cincinnati']
+8926,,https://eu.cincinnati.com/story/news/2020/12/06/brent-spence-bridge-improvement-project-plan-fund-northern-kentucky-lawmakers/6389677002/,"Streets in low-lying neighborhoods like Arverne, Edgemere, and Far Rockaway need to be raised in anticipation of increased storms and sea-level rise due to climate change. In addition, these neighborhoods are in dire need of storm sewer infrastructure. Currently, many streets experience regular flooding because water has nowhere to go. Surrounding developments have been raised to prevent flooding, but the streets themselves need the same protection.",Brent Spence Bridge: NKY lawmakers' plans to fund improvements,['manual_google_by_location'],"['transportation', 'not_sure']",['Cincinnati']
+8927,,https://moversmakers.org/2020/12/06/city-to-make-outdoor-dining-permanent-with-streateries-in-downtown-otr/,,"City to make outdoor dining permanent with ‘Streateries’ in Downtown, OTR",['manual_google_by_location'],"['public_space', 'indirect_city_relation']",['Cincinnati']
+8928,,https://eu.cincinnati.com/story/news/2020/12/05/friday-fatal-shooting-ties-2020-with-most-cincinnati-homicides-in-a-year/6419583002/,Hana Kassem,"Cincinnati now has 88 homicides, matching yearly record",['manual_google_by_location'],['crime'],['Cincinnati']
+8929,,https://rnbcincy.com/358094/cincinnati-police-say-gun-recoveries-are-up-in-2020/,,Cincinnati: Police Say Gun Recoveries Are Up In 2020,['manual_google_by_location'],"['crime', 'gun']",['Cincinnati']
+8930,,https://thenationonlineng.net/gunmen-kill-anti-cult-leader-in-delta/,Principal,Gunmen kill anti-cult leader in Delta,['manual_google_by_location'],"['gun', 'crime_incident', 'indirect_city_relation']",['Austin']
+8931,,https://www.myrecordjournal.com/News/Meriden/Meriden-News/Police-Man-charged-with-assault-following-fire-dispute-at-home-Monday.html,,"Meriden man charged with threatening, assault after incident on Bee Street",['manual_google_by_location'],['not_related_to_city'],[]
+8932,,https://www.loopslu.com/content/police-investigating-suspicious-death-elderly-bagatelle-man,Kohn Pedersen Fox,Police investigating suspicious death of elderly Bagatelle man,['manual_google_by_location'],['not_related_to_city'],[]
+8933,,https://www.ktvu.com/news/housing-doesnt-belong-at-peoples-park-some-activists-say,,"Housing doesn't belong at People's Park, some activists say",['manual_google_by_location'],['not_related_to_city'],[]
+8934,,https://www.startlandnews.com/2020/12/kenzen-kansas-city/,Revise East Side Coastal Resiliency Plan to leave park intact,Kenzen finds capital in Kansas City as market for startup’s speciality wearables heats up,['manual_google_by_location'],['employment'],['Kansas City']
+8935,,https://www.kmmo.com/2020/12/07/kc-man-facing-tampering-charge-after-traffic-crash/,,KC MAN FACING TAMPERING CHARGE AFTER TRAFFIC CRASH,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Kansas City']
+8936,,https://www.wishtv.com/news/local-news/indianapolis-food-trucks-pay-it-forward-to-homeless-population/,"The current East River resiliency proposal calls for raising the majority of the park above the 100-year flood plain, but that requires cutting down many of its trees and the phased decommissioning of large portions of the park. But given how vital the park is to multiple neighborhoods for exercise, social gathering, and informal cultural activities, especially during Covid-19, it may be worth revisiting the earlier version of the plan, which left most of the park intact by creating a flood barrier wall with flood gates along the east side of FDR. This resiliency strategy could be taken up again for the majority of the park, thus saving the park trees and maintaining its accessibility in some form during construction.",Indianapolis food trucks pay it forward to homeless population - WISH-TV,['manual_google_by_location'],"['homelessness', 'food']",['Indianapolis']
+8937,,https://www.wibc.com/news/local-indiana/indy-public-library-seeking-input-on-new-fort-benjamin-harrison-branch/,,Indy Public Library Seeking Input on New Fort Benjamin Harrison Branch,['manual_google_by_location'],[],['Indianapolis']
+8938,,https://www.wfyi.org/news/articles/cib-says-indianapolis-tourism-set-to-bounce-back,"Reconfigure flood protections under FDR Drive to provide new, Covid-safe uses",CIB Says Indianapolis Tourism Set To Bounce Back,['manual_google_by_location'],['tourism'],['Indianapolis']
+8939,,https://radio.wosu.org/post/columbus-arts-organizations-take-financial-hit-holiday-season-goes-virtual#stream/0,,Columbus Arts Organizations Take Financial Hit As Holiday Season Goes Virtual,['manual_google_by_location'],['entertainment'],['Columbus']
+8940,,https://eu.dispatch.com/story/news/2020/12/07/police-investigations-run-out-cash-again/3823098001/,"What if we rethought the underbelly of the elevated sections of the FDR to become a series of raised outdoor covered rooms that allowed for a variety of safe uses? These raised platforms would be combined with barrier walls and flood gates, positioned astutely to provide the necessary flood protection. To extend their use into the colder months, these outdoor rooms could be outfitted with solar-powered outdoor heaters and lighting. This large-scale project would foster social interaction and community spaces, boost the local restaurant and retail industries, reignite the city�s cultural life, promote health and wellbeing, all while addressing resiliency, sustainability, wellness and creating jobs.","Investigations into Columbus police conduct during riots about to run out of cash, again",['manual_google_by_location'],['police'],['Columbus']
+8941,,https://radio.wosu.org/post/columbus-nightclub-under-investigation-after-hundreds-violate-pandemic-restrictions#stream/0,,Columbus Nightclub Under Investigation After Hundreds Violate Pandemic Restrictions,['manual_google_by_location'],"['public_space', 'health']",['Columbus']
+8942,,https://www.vabeach.com/virginia-beach-articles/best-places-to-kayak-in-virginia-beach/,Laurie Schoeman,Best Places To Kayak in Virginia Beach,['manual_google_by_location'],"['entertainment', 'not_sure']",['Virginia Beach']
+8943,,https://www.wtkr.com/news/2-suspects-in-custody-after-firearm-violation-police-chase-at-virginia-beach-mall,,"2 suspects in custody after firearm violation, police chase at Virginia Beach mall",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Virginia Beach']
+8944,,https://www.wtkr.com/news/virginia-beach-business-owner-gets-350-000-ppp-loan-and-spends-money-on-himself-and-travel-to-las-vegas,"Senior Program Director, National Initiatives, Resilience",Virginia Beach business owner accused of using PPP loan money on himself and travel,['manual_google_by_location'],"['financial', 'crime', 'indirect_city_relation']",['Virginia Beach']
+8945,,https://www.wtkr.com/news/three-people-including-child-sent-to-hospitals-after-truck-crashes-into-virginia-beach-home-causes-fire,,"Three people, including child, sent to hospitals after truck crashes into Virginia Beach home, causes fire",['manual_google_by_location'],"['accident', 'indirect_city_relation']",['Virginia Beach']
+8946,,https://www.wsoctv.com/news/local/1-hospitalized-after-shooting-west-charlotte/K6ELWAFJHJEBTITQFIPB3CSTA4/,Enterprise Community Partners,CMPD: 2 victims showed up at hospital after triple shooting in west Charlotte,['manual_google_by_location'],"['indirect_city_relation', 'crime_incident']",['Charlotte']
+8947,,https://www.corneliustoday.com/some-funding-for-charlotte-waters-assistance-program-expires-dec-31/,,Some funding for Charlotte Water's assistance program expires Dec. 31,['manual_google_by_location'],"['drinking_water', 'policy', 'financial']",['Charlotte']
+8948,,https://www.charlotteagenda.com/241697/plans-for-a-massive-central-park-for-charlotte-quietly-advance/,Convert vacant storefronts into temporary hydroponic food production facilities,Plans for a massive central park for Charlotte quietly advance,['manual_google_by_location'],"['planning_&_design', 'public_space']",['Charlotte']
+8949,,https://www.cbs58.com/news/suspect-turns-self-in-connected-to-milwaukees-third-ward-homicide,,Family and friends mourn Milwaukee's Third Ward homicide victim; suspect turns self in,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Milwaukee']
+8950,,https://www.tmj4.com/news/local-news/two-deadly-shootings-highlight-overnight-violence-in-milwaukee,"Given the widespread lack of access to fresh and local food in many communities, the urgent need for employment opportunities, and the extraordinary number of vacant storefronts and commercial spaces across the city, the city should develop a public-private partnership to convert these available spaces into indoor food production facilities. New York City should start with piloting this program in neighborhoods with high vacancy rates, and offer local home-grown agricultural leaders such as Gotham Greens, AeroFarms, or Sky Vegetables the opportunity to train jobseekers and expand urban agriculture.",Two deadly shootings highlight overnight violence in Milwaukee,['manual_google_by_location'],"['indirect_city_relation', 'crime_incident']",['Milwaukee']
+8951,,https://www.tmj4.com/news/local-news/economic-mobility-significantly-more-difficult-for-milwaukee-african-americans,,Economic mobility significantly more difficult for Milwaukee African Americans,['manual_google_by_location'],"['inequality', 'employment']",['Milwaukee']
+8952,,https://www.cbs58.com/news/disheartened-city-leaders-discuss-homicides-in-milwaukee-in-2020-plans-for-2021,Reduce the heat island effect by lightening the color of walls and streets,"'Disheartened': City leaders discuss homicides in Milwaukee in 2020, plans for 2021",['manual_google_by_location'],['crime'],['Milwaukee']
+8953,,https://wtmj.com/homepage-showcase/2020/12/07/three-fatal-shootings-and-fatal-crash-highlight-milwaukees-deadly-weekend/,,"Three fatal shootings, two fatal crashes highlight Milwaukee’s deadly weekend",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Milwaukee']
+8954,,https://patch.com/rhode-island/providence/city-providence-begin-youth-meal-home-delivery-distribution,"Dark-colored streets and building exteriors absorb 70 percent to 90 percent of radiant energy from the sun, which results in a �heat island effect."" In contrast, most light-colored surfaces, including white asphalt and fiberglass shingles absorb far less. Los Angeles is mitigating the heat island effect by painting roads in a white-colored, highly-reflective sealant. New York City needs to follow LA�s example of lightening street surfaces, starting with walkways, bikeways, and sidewalks and expanding the program through procurement, engineering, and innovation.",City Of Providence To Begin Youth Meal Home Delivery Distribution,['manual_google_by_location'],['philanthropy'],['Providence']
+8955,,https://www.browndailyherald.com/2020/12/04/dont-feel-safe-local-mans-altercation-providence-police-prompts-community-outrage/,,‘I don’t feel safe’: Local man’s altercation with Providence Police prompts community outrage,['manual_google_by_location'],"['safety', 'police', 'indirect_city_relation']",['Providence']
+8956,,https://www.golocalprov.com/news/providence-small-businesses-take-a-second-gut-punch-with-national-grid-tear,Justin Green,Providence Small Businesses Take a Second Gut Punch With National Grid Tearing Up Retail Areas,['manual_google_by_location'],[],['Providence']
+8957,,https://www.wokv.com/news/local/new-art-sculpture-coming-downtown-jacksonville/RDKNOHYLY5H2XPQ7B5PJUS672I/,,New art sculpture coming to downtown Jacksonville,['manual_google_by_location'],[],['Jacksonville']
+8958,,https://www.news4jax.com/news/local/2020/12/07/city-discusses-programs-to-help-disadvantaged-jacksonville-communities/,Founder and Executive Director,City discusses programs to help disadvantaged Jacksonville communities,['manual_google_by_location'],[],['Jacksonville']
+8959,,https://www.news4jax.com/traffic/2020/12/07/fhp-crash-report-driver-killed-in-jacksonville-after-running-red-light/,,FHP crash report: Driver killed in Jacksonville after running red light,['manual_google_by_location'],['accident'],['Jacksonville']
+8960,,https://eu.jacksonville.com/story/news/crime/2020/12/06/double-fatal-crash-closes-main-street-bridge-downtown-jacksonville/3851071001/,Big Reuse,Both drivers die in crash on Main Street bridge in downtown Jacksonville,['manual_google_by_location'],"['accident', 'indirect_city_relation']",['Jacksonville']
+8961,,https://eu.jacksonville.com/story/news/healthcare/2020/12/05/jacksonville-divert-uninsured-emergency-room-primary-care/6389401002/,,Jacksonville nonprofits hope to connect more uninsured residents to primary care,['manual_google_by_location'],"['philanthropy', 'health']",['Jacksonville']
+8962,,https://www.fox13now.com/news/local-news/sin-lake-city-slcs-wholesome-reputation-takes-hit,Construct reuse centers in every neighborhood,Sin Lake City? SLCs 'wholesome' reputation takes hit,['manual_google_by_location'],[],['Salt Lake City']
+8963,,https://www.sltrib.com/news/environment/2020/12/03/u-researchers-find-peaks/,,U. researchers find pollution linked to lower student test scores,['manual_google_by_location'],['air_quality'],['Salt Lake City']
+8964,,https://www.nashvillescene.com/news/features/article/21144861/two-recent-developments-put-nashville-on-track-for-a-more-sustainable-future,"Material reuse can both help the environment and create local economic growth. Instead of buying a dresser that was made in another country from recently cutdown trees and shipped around the world�we can reuse locally. In addition to the initial labor needed to build reuse centers, these facilities can create jobs for workers to manage and operate the facilities. Reuse and repair centers not only keep materials circulating within the community; they also keep the money exchanged for goods, repairs and refurbishment within the local economy, too. In the long term, these centers also encourage sustainable shopping behaviors. Reuse centers can create jobs, keep materials out of the landfill and become close to self-funded with some additional support for transitional workforces.",Two Recent Developments Put Nashville on Track for a More Sustainable Future,['manual_google_by_location'],['sustainability'],['Nashville']
+8965,,https://www.newschannel5.com/news/teen-killed-after-sunday-morning-south-nashville-shooting,,Teen killed after Sunday morning South Nashville shooting,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Nashville']
+8966,,https://eu.commercialappeal.com/story/money/business/development/2020/12/07/south-memphis-development-grocery-store-metro-shopping-plaza-revitalization-food-desert/3833145001/,Repurpose portions of public space & parkland into community composting sites,Developer looks to bring grocery store to South Memphis as part of proposed TIF district,['manual_google_by_location'],[],['Memphis']
+8967,,https://www.fox13memphis.com/news/local/that-number-is-crisis-memphis-tops-300-homicides-2020/PB553B62IBASNPJYPQVI45TU7I/,,‘That number is a crisis’: Memphis tops 300 homicides in 2020,['manual_google_by_location'],['crime'],['Memphis']
+8968,,https://www.fox13memphis.com/rss-snd/heal-hood-local-nonprofit-bringing-christmas-needy-families/UZBXOVQPHRB3HLP7WE3KQX5ZXU/,Constructing composting sites would generate jobs not only from site development but from running the pickup and composting programs. This will encourage local composting and generate compost to divert materials from waste streams going to landfills.,Heal the Hood: Local nonprofit bringing Christmas to needy families,['manual_google_by_location'],"['philanthropy', 'indirect_city_relation']",['Memphis']
+8969,,https://www.wtvr.com/news/local-news/teen-arrested-in-murder-of-ricky-seldon-erich-road-richmond,,Teenager arrested in murder of Richmond man,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Richmond']
+8970,,https://uptownmessenger.com/2020/12/police-blotter-vehicles-stolen-across-uptown-neighbhooods/,Maggie Greenfield,Police blotter: Vehicles stolen across Uptown neighbhooods,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['New Orleans']
+8971,,https://abc11.com/raleigh-shooting-st-giles-road-12-year-old-hurt-in/8555246/,,"12-year-old girl hurt after shots fired into Raleigh apartment, police say",['manual_google_by_location'],"['crime_incident', 'indirect_city_relation', 'gun']",['Raleigh']
+8972,,https://eu.courier-journal.com/story/news/2020/12/04/louisville-receives-perfect-score-human-rights-campaign-scorecard/3822160001/,Executive Director / Bronx River Administrator,Louisville receives perfect score for sixth year in a row by Human Rights Campaign index,['manual_google_by_location'],[],['Louisville']
+8973,,https://www.news9.com/story/5fcd960f4c52160bb17aa0f7/ocpd-searching-for-suspect-involved-in-nw-okc-shooting,,OCPD Searching For Suspect Involved In NW OKC Shooting,['manual_google_by_location'],"['indirect_city_relation', 'crime_incident']",['Oklahoma City']
+8974,,https://www.ctpost.com/news/article/Bridgeport-man-accused-of-shooting-girlfriend-s-15782078.php,Bronx River Alliance,Bridgeport man accused of shooting girlfriend's new boyfriend,['manual_google_by_location'],"['indirect_city_relation', 'crime_incident', 'gun']",['Bridgeport']
+8975,,https://www.ctpost.com/policereports/article/Police-Gunshot-wound-victim-dropped-off-at-15781110.php?src=rdctplocal,,Police: Gunshot wound victim dropped off at Bridgeport Hospital,['manual_google_by_location'],"['indirect_city_relation', 'crime_incident', 'gun']",['Bridgeport']
+8976,,https://www.wkbw.com/news/local-news/man-indicted-for-allegedly-slashing-victim-across-the-face-outside-buffalo-nightclub,Clean and green urban rivers,Man indicted for allegedly slashing victim across the face outside Buffalo nightclub,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['Buffalo']
+8977,,https://www.wnpr.org/post/after-decades-burning-trash-mira-plant-hartford-says-it-will-close-july-2022,,"After Decades Of Burning Trash, MIRA Plant In Hartford Says It Will Close In July 2022",['manual_google_by_location'],[],['Hartford']
+8978,,https://fortworthbusiness.com/featured/facebook-fort-worth-expansion/,"A federal stimulus package could include investments in urban waterways, such as the Bronx River, which are already drivers of economic development. Developing a jobs program to clean and green urban rivers--and the parks and trails that support them--would employ our neighbors who suffer most, and result in direct environmental improvements in communities where they are direly needed.",Facebook announces Fort Worth Data Center expansion,['manual_google_by_location'],['employment'],['Fort Worth']
+8979,,https://kvoa.com/news/2020/12/06/recreational-marijuana-available-to-buy-next-spring/,,Recreational marijuana available to buy next spring,['manual_google_by_location'],"['policy', 'drug']",['Tucson']
+8980,,https://kvia.com/news/abc-7-listens/2020/11/29/recycling-suspension-to-save-city-of-el-paso-7900-a-week-but-your-collection-bill-wont-go-down/,Launch a Green Infrastructure Stewardship Team,"Recycling suspension to save City of El Paso $7,900 a week, but your collection bill won’t go down",['manual_google_by_location'],['recycle'],['El Paso']
+8981,,https://www.hawaiipublicradio.org/post/why-there-so-much-red-tape-honolulus-relief-fund-creates-anxiety-and-confusion-some#stream/0,,'Why Is There So Much Red Tape': Honolulu's Relief Fund Creates Anxiety And Confusion For Some,['manual_google_by_location'],[],['Honolulu']
+8982,,https://www.wowt.com/2020/12/07/omaha-homeowners-still-struggling-to-get-trash-collected/,"Green infrastructure such as rain gardens are essential to absorb rainwater and reduce the discharge of untreated sewage into our waterways. But without stewardship, rain gardens fill with garbage, inlets get clogged and plants die. The city should train and deploy a Stewardship Team to provide comprehensive management and upkeep of the city�s rain gardens. With on-going care, the rain gardens can fulfill their promise of reducing sewer overflows and also add pollinator habitats and natural cooling for our rapidly heating cities.",Omaha homeowners still struggling to get trash collected,['manual_google_by_location'],['waste'],['Omaha']
+8983,,https://www.valleymorningstar.com/2020/11/19/mcallen-police-arrest-men-hospitalized-negative-reaction-drug/,,McAllen police arrest men hospitalized after ‘negative reaction’ to drug,['manual_google_by_location'],"['crime_incident', 'indirect_city_relation']",['McAllen']
+8984,,https://www.kob.com/albuquerque-news/albuquerque-city-council-withdraws-public-health-order-enforcement-ordinance/5944821/,Micah Kotch,Albuquerque City council withdraws public health order enforcement ordinance,['manual_google_by_location'],"['health', 'policy']",['Albuquerque']
+,,,,,,,
+,,,Managing Director,,,,
+,,,,,,,
+,,,URBAN-X,,,,
+,,,,,,,
+,,,Develop �Ecohubs� in every NYCHA development,,,,
+,,,,,,,
+,,,"�Ecohubs��on-site farms designed as closed-loop systems�should be constructed on unused land in NYCHA properties to not only provide fruits and vegetables to communities with limited access to fresh foods but to act as platforms for sustainability and agricultural education. The city, state, and federal government should fund the development of Ecohubs in every NYCHA development, with a NYCHA workforce. NYCHA Ecohubs would anchor organic food production, zero waste systems, rainwater catchment, and solar energy generation. NYCHA properties should be targeted due to the public health and economic development needs of their massive population.",,,,
+,,,,,,,
+,,,"After initial construction, a conservation corps-type workforce comprised of NYCHA residents could be employed to maintain, manage, and educate the public about the Ecohub. Each Ecohub could employ one supervisor, ten to twelve service corps members, and support dozens of resident-led community organization partners. Reaching 100 sites in the first year of a new administration could employ 100 full-time site coordinators, 1,200 annual NYCHA conservation corps members, and hundreds of contractors (with priority for resident entrepreneurs and those employing residents as part of their business models). Additionally, on-the-job training could be provided by specialists in carpentry, hydroponics, and horticulture.",,,,
+,,,,,,,
+,,,Paul Gallay,,,,
+,,,,,,,
+,,,President and Hudson Riverkeeper,,,,
+,,,,,,,
+,,,Riverkeeper,,,,
+,,,,,,,
+,,,"Invest in community-driven, nature-based coastal resilience projects",,,,
+,,,,,,,
+,,,"With sea levels rising, New York City must support community-driven, nature-based solutions for coastal resilience. Rather than focusing on expensive offshore storm surge barriers, the city should construct onshore environmental infrastructure such as berms, living shorelines, salt marshes, and wetlands which provide cheaper, more adaptable, and less ecologically destructive protection against sea level rise. Projects such as stormwater retention gardens and salt marsh restorations have already been successfully completed in other northeastern cities like Boston. Native plants and trees that can survive both dry and flooded conditions should also be prioritized in coastal communities. A workforce tasked with plant stewardship can be responsible for the long term care of these plantings. In designing and executing these climate-smart projects, front-line communities should be central, especially historically disempowered and BIPOC communities.",,,,
+,,,,,,,
+,,,Invest in habitat restoration at the Hudson River Sanctuary,,,,
+,,,,,,,
+,,,"The 400-acre estuarine sanctuary in the waters off Hudson River Park needs critical investment to ensure the health of the tidal ecosystem and its diverse fish population. This investment could also create jobs for a workforce mobilized to construct oyster castles and textured surfaces arounds piers and bulkheads to develop oyster habitats. Oyster reefs are important for New York City and the lower Hudson estuary because oysters filter excessive nutrients from the water and provide three-dimensional habitat for a wide variety of fish species. Additionally, building salt marshes and cordgrass fields in bays along the Hudson would create additional fish spawning areas while also helping to lower excess nutrient levels in the water.",,,,
+,,,,,,,
+,,,Fast track construction of sewage and stormwater infrastructure,,,,
+,,,,,,,
+,,,"New York City discharges 21 billion gallons of sewage and stormwater into the harbor every year, and with climate change this number will grow. A public works program and climate corps could help fast-track the construction of large sewage and stormwater infrastructure projects that have already been planned. A sewage capture tunnel proposed for Newtown Creek would help prevent 1.3 billion gallons of discharge from contaminating the waterway per year. Additionally, moving forward with a plan for Rikers Island to convert 400-plus acres of land into a wastewater treatment facility and solar/energy farm would be a sound use of labor, provided we ensure that the project serves environmental justice goals and emphasizes community involvement.",,,,
+,,,,,,,
+,,,Candace Damon,,,,
+,,,,,,,
+,,,Vice Chairman,,,,
+,,,,,,,
+,,,HR&A Advisors,,,,
+,,,,,,,
+,,,Support maintenance projects,,,,
+,,,,,,,
+,,,"The default progressive response to economic downturn is to invest in capital projects that can be advanced quickly and that address other contemporary policy priorities�today, resilience, climate adaptation, and equity. Virtually by definition, however, shovel-ready capital projects are those which have already been funded; directing stimulus funds to them replaces one source of funds with another. While New York City should certainly welcome any expansion of its investment capabilities, the shovel-ready projects for which there is no other source of funding, indeed for which there is vastly diminished funding, are maintenance projects.",,,,
+,,,,,,,
+,,,"I would prioritize restoration of parks�despite being, as always, the first operating budgets cut, parks have once again demonstrated their value as critical infrastructure�and clean and efficient energy projects, including weatherization of homes and tune-up of building systems. But we should also support repair of major infrastructure, operating subsidies to strengthen regional food distribution and launch local agriculture, and a host of other maintenance projects that can be initiated within weeks of funding. These projects will all renew the aims of the Civilian Conservation Corps, this time ensuring that women and Black men get equitable access to jobs that are both less likely to be automated in the near term and offer career ladders.",,,,
+,,,,,,,
+,,,Ren�e Crowley,,,,
+,,,,,,,
+,,,Deputy Director,,,,
+,,,,,,,
+,,,LES Ecology Center,,,,
+,,,,,,,
+,,,Invest in urban carbon farming,,,,
+,,,,,,,
+,,,"The city should invest in building up the health of the city�s soil and encourage the development of green space with the goal of carbon sequestration. In partnership with community compost programs, the city can access locally produced compost made from New Yorkers� food scraps. This model of collecting local organic waste and transforming it into a rich resource to be used on local soils represents a highly sustainable closed loop system. Communities across the city could play a role in sequestering carbon from the atmosphere, transforming pockets of green space into local carbon sponges. Furthermore, when carbon is stored in the soils it increases its ability to retain water and combat coastal flooding.",,,,
+,,,,,,,
+,,,Sarah Charlop-Powers,,,,
+,,,,,,,
+,,,Executive Director and Co-Founder,,,,
+,,,,,,,
+,,,Natural Areas Conservancy,,,,
+,,,,,,,
+,,,"Bolster NYC�s 7,300 acres of forested parkland",,,,
+,,,,,,,
+,,,"In the time of COVID-19, visitation to New York City�s natural areas has increased between 65 and 100 percent. With millions of New Yorkers flocking to the city�s forested parkland for relief and recreation, protecting these forests and improving access is even more important. However, much of the city�s forests is in a state of ecological decline due to threats including invasive species. They require ongoing management to ensure that they continue to mitigate climate change and provide a myriad of environmental benefits to New York City. Many natural areas are also in need of safe, well-marked trails that improve access while protecting the forests in times of increased use. The city should make a major investment in citywide forest management to ensure that the city�s forest can achieve its full potential for recreation and conservation, and create opportunities for green jobs and environmental education.",,,,
+,,,,,,,
+,,,Protect coastal communities and infrastructure by investing in wetlands restoration,,,,
+,,,,,,,
+,,,"New York City is projected to have six feet of sea level rise by 2100. The city�s wetlands can play an important role as buffers from sea level rise and storms like Sandy, but these important wildlife areas require restoration and management to fulfill their resilience and buffering potential. We have located 120 potential wetland restoration opportunities spanning over 275 acres across the city. With large-scale, systematic investment in restoration and management across these sites, the city can ensure that wetlands provide crucial protection for coastal infrastructure and housing, while also ensuring access to the natural world and the social and public health benefits that come with spending time in nature.",,,,
+,,,,,,,
+,,,Katie Ellman,,,,
+,,,,,,,
+,,,President,,,,
+,,,,,,,
+,,,Green Shores NYC,,,,
+,,,,,,,
+,,,Repair and fortify the Hallets Cove Esplanade,,,,
+,,,,,,,
+,,,"Protecting the NYCHA Astoria Houses on Hallets Point in Astoria, Queens must be a priority for the city, and federal help can ensure the necessary infrastructure improvements happen. The campus esplanade�s seawall, waterfront railing, and walking path are in a dangerous state of disrepair, and there is concern that water is seeping through the foundation of the seawall underground and potentially damaging the structural integrity of the apartment buildings. The Parks Department is to commence repair of the waterfront railing later this month, but better coordination and collaboration between the Army Corps of Engineers, Department of Environmental Conservation, Parks Department, NYCHA, Astoria Houses residents, elected officials, and community partners is needed to create a big-picture plan going forward. Climate change will bring continued sea level rise, and conditions here are ill-prepared for this increase.",,,,

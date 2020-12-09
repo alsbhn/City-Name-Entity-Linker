@@ -1,5 +1,6 @@
 import nltk
 from nltk.tokenize import sent_tokenize
+import numpy as np
 
 import torch
 from transformers import BertTokenizer, BertModel
