@@ -9,6 +9,7 @@ import numpy as np
 import time
 import datetime
 import random
+import os
 
 seed_val = 42
 random.seed(seed_val)
@@ -60,6 +61,7 @@ def format_time(elapsed):
 class SentencePairBertClassifier:
   
   def __init__(self, ):
+    
     self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
 
     if torch.cuda.is_available():       
@@ -73,6 +75,7 @@ class SentencePairBertClassifier:
 
   
   def train(self, train_dataset, val_dataset, epochs):
+    
     self.train_dataloader, self.validation_dataloader = build_data_loader(train_dataset, val_dataset, batch_size = 8)
     
     self.optimizer = build_optimizer(self.model, lr = 2e-5,eps = 1e-8)
@@ -153,3 +156,13 @@ class SentencePairBertClassifier:
     print("Training complete!")
 
     print("Total training took {:} (h:mm:ss)".format(format_time(time.time()-total_t0)))
+
+  def save_model (self, model_path, model_name):
+
+    output_dir = os.path.join(model_path, model_name)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    print("Saving model to %s" % output_dir)
+    model_to_save = self.model.module if hasattr(self.model, 'module') else self.model  # Take care of distributed/parallel training
+    model_to_save.save_pretrained(output_dir)
+    self.tokenizer.save_pretrained(output_dir)
