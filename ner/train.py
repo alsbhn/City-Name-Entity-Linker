@@ -1,5 +1,8 @@
 import torch
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
+from torch.utils.data import TensorDataset, random_split
+
+from tokenizer import split_train_test, tokenize_dataset
 
 from transformers import BertForSequenceClassification, AdamW, BertConfig
 from transformers import get_linear_schedule_with_warmup
@@ -73,9 +76,19 @@ class SentencePairBertClassifier:
     
     self.model = build_model(self.device, num_labels = 2)
 
-  
-  def train(self, train_dataset, val_dataset, epochs):
+
+  def train(self, sentences_1 , sentences_2, labels, epochs):
     
+    input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, max_length=512, self.tokenizer)
+
+    # Divide up our training set to use 90% for training and 10% for validation.
+    dataset = TensorDataset(input_ids, attention_masks, labels)
+    train_size = int(0.9 * len(dataset))
+    val_size = len(dataset) - train_size
+    train_dataset, val_dataset = random_split(dataset, [train_size, val_size])
+    print('{:>5,} training samples'.format(train_size))
+    print('{:>5,} validation samples'.format(val_size))
+
     self.train_dataloader, self.validation_dataloader = build_data_loader(train_dataset, val_dataset, batch_size = 8)
     
     self.optimizer = build_optimizer(self.model, lr = 2e-5,eps = 1e-8)

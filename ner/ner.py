@@ -1,13 +1,11 @@
 import pandas as pd
 import json
 from sklearn.utils import shuffle
-from tokenizer import split_train_test, tokenize_dataset
-from torch.utils.data import TensorDataset, random_split
 from transformers import BertTokenizer
 
 from train import SentencePairBertClassifier
 
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
+#tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
 
 with open ('..//annot_data/train_data.json') as f:
   df = json.load (f)
@@ -20,15 +18,7 @@ train_set, test_set = split_train_test(df)
 sentences_1 , sentences_2 = train_set.description.values , train_set.summary_title.values
 labels = train_set.ner.values
 
-input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, 512, tokenizer)
 
-# Divide up our training set to use 90% for training and 10% for validation.
-dataset = TensorDataset(input_ids, attention_masks, labels)
-train_size = int(0.9 * len(dataset))
-val_size = len(dataset) - train_size
-train_dataset, val_dataset = random_split(dataset, [train_size, val_size])
-print('{:>5,} training samples'.format(train_size))
-print('{:>5,} validation samples'.format(val_size))
 
 # Prepare for trainig
 epochs = 3
