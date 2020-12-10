@@ -79,7 +79,7 @@ class SentencePairBertClassifier:
 
   def train(self, sentences_1 , sentences_2, labels, epochs):
     
-    input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, max_length=512, self.tokenizer)
+    input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, self.tokenizer, max_length=512)
 
     # Divide up our training set to use 90% for training and 10% for validation.
     dataset = TensorDataset(input_ids, attention_masks, labels)

@@ -6,7 +6,7 @@ def split_train_test(df):
   test_set = df[int(len(df)*0.8):]
   return train_set, test_set
 
-def tokenize_dataset(sentences_1 , sentences_2, labels, max_length,tokenizer):
+def tokenize_dataset(sentences_1 , sentences_2, labels,tokenizer, max_length=512):
   input_ids = []
   attention_masks = []
   for sent in enumerate(sentences_1):
