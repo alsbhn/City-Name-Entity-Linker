@@ -29,9 +29,9 @@ def build_model(device, num_labels = 2):
   model = BertForSequenceClassification.from_pretrained(
     "bert-base-uncased", num_labels = num_labels, # The number of output labels--2 for binary classification.   
     output_attentions = False, output_hidden_states = False, )
+  
   if device.type == 'cuda':
     model.cuda()
-  
   return model
 
 def build_optimizer(model, lr = 2e-5,eps = 1e-8):
@@ -48,7 +48,6 @@ def flat_accuracy(preds, labels):
     pred_flat = np.argmax(preds, axis=1).flatten()
     labels_flat = labels.flatten()
     return np.sum(pred_flat == labels_flat) / len(labels_flat)
-
 
 # Helper function for formatting elapsed times as hh:mm:ss
 def format_time(elapsed):
@@ -75,6 +74,15 @@ class SentencePairBertClassifier:
         self.device = torch.device("cpu")
     
     self.model = build_model(self.device, num_labels = 2)
+
+  def load_from_pretrained(self, pretrained_model_path):
+    
+    # Load a trained model and vocabulary that you have fine-tuned
+    self.model = BertForSequenceClassification.from_pretrained(pretrained_model_path)
+    self.tokenizer = BertTokenizer.from_pretrained(pretrained_model_path)
+    
+    if self.device.type == 'cuda': # Copy the model to the GPU.
+      self.model.cuda()
 
 
   def train(self, sentences_1 , sentences_2, labels, epochs):
@@ -179,3 +187,45 @@ class SentencePairBertClassifier:
     model_to_save = self.model.module if hasattr(self.model, 'module') else self.model  # Take care of distributed/parallel training
     model_to_save.save_pretrained(output_dir)
     self.tokenizer.save_pretrained(output_dir)
+
+  def test (self, sentences_1 , sentences_2, labels):
+
+    input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, self.tokenizer, max_length=512)
+    
+    prediction_data = TensorDataset(input_ids, attention_masks, labels)
+    prediction_sampler = SequentialSampler(prediction_data)
+    prediction_dataloader = DataLoader(prediction_data, sampler=prediction_sampler, batch_size = 16)
+
+    # Prediction on test set
+    print('Predicting labels for {:,} test sentences...'.format(len(input_ids)))
+
+    self.model.eval() # Put model in evaluation mode
+
+    predictions , true_labels = [], []
+    for batch in prediction_dataloader:
+      batch = tuple(t.to(self.device) for t in batch)
+      b_input_ids, b_input_mask, b_labels = batch
+      
+      # Telling the model not to compute or store gradients, saving memory and speeding up prediction
+      with torch.no_grad():
+          # Forward pass, calculate logit predictions
+          outputs = self.model(b_input_ids, token_type_ids=None, 
+                          attention_mask=b_input_mask)
+      logits = outputs[0]
+
+      # Move logits and labels to CPU
+      logits = logits.detach().cpu().numpy()
+      label_ids = b_labels.to('cpu').numpy()
+      
+      # Store predictions and true labels
+      predictions.append(logits)
+      true_labels.append(label_ids)
+    # Combine the results across all batches. 
+    flat_predictions = np.concatenate(predictions, axis=0)
+    # For each sample, pick the label (0 or 1) with the higher score.
+    flat_predictions = np.argmax(flat_predictions, axis=1).flatten()
+    # Combine the correct labels for each batch into a single list.
+    flat_true_labels = np.concatenate(true_labels, axis=0)
+    print('Test DONE.')
+    return flat_predictions
+    
