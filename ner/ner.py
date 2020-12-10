@@ -2,6 +2,7 @@ import pandas as pd
 import json
 from sklearn.utils import shuffle
 from transformers import BertTokenizer
+from tokenizer import split_train_test
 
 from train import SentencePairBertClassifier
 

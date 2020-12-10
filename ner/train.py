@@ -29,7 +29,7 @@ def build_model(device, num_labels = 2):
   model = BertForSequenceClassification.from_pretrained(
     "bert-base-uncased", num_labels = num_labels, # The number of output labels--2 for binary classification.   
     output_attentions = False, output_hidden_states = False, )
-  if device == 'gpu':
+  if device.type == 'cuda':
     model.cuda()
   
   return model
