@@ -227,5 +227,5 @@ class SentencePairBertClassifier:
     # Combine the correct labels for each batch into a single list.
     flat_true_labels = np.concatenate(true_labels, axis=0)
     print('Test DONE.')
-    return flat_predictions
+    return flat_true_labels, flat_predictions
     
