@@ -12,8 +12,10 @@ def summarizer_page(news, engine):
 
     if st.button('Summarize'):
         doc = ext_summarizer.summarize(text, title)
-        st.subheader('Summary')
+        st.subheader('Summary | title')
         st.write(doc.summarize_title())
+        st.subheader('Summary | centroid')
+        st.write(doc.summarize_centroid())
         #st.write(doc.summary_centroid)
         st.subheader(title)
         st.write(text)
