@@ -62,10 +62,8 @@ def format_time(elapsed):
 
 class SentencePairBertClassifier:
   
-  def __init__(self, ):
+  def __init__(self):
     
-    self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
-
     if torch.cuda.is_available():       
         self.device = torch.device("cuda")
         print('We will use the GPU:', torch.cuda.get_device_name(0))
@@ -75,18 +73,19 @@ class SentencePairBertClassifier:
     
     self.model = build_model(self.device, num_labels = 2)
 
-  def load_from_pretrained(self, pretrained_model_path):
+  @classmethod
+  def load_from_pretrained(cls, pretrained_model_path):
+    classifier = cls(None)
+    classifier.model = BertForSequenceClassification.from_pretrained(pretrained_model_path)
+    classifier.tokenizer = BertTokenizer.from_pretrained(pretrained_model_path)
     
-    # Load a trained model and vocabulary that you have fine-tuned
-    self.model = BertForSequenceClassification.from_pretrained(pretrained_model_path)
-    self.tokenizer = BertTokenizer.from_pretrained(pretrained_model_path)
-    
-    if self.device.type == 'cuda': # Copy the model to the GPU.
-      self.model.cuda()
-
+    if classifier.device.type == 'cuda': # Copy the model to the GPU.
+      classifier.model.cuda()
+    return classifier
 
   def train(self, sentences_1 , sentences_2, labels, epochs):
     
+    self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
     input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, self.tokenizer, max_length=512)
 
     # Divide up our training set to use 90% for training and 10% for validation.
