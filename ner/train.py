@@ -75,7 +75,7 @@ class SentencePairBertClassifier:
 
   @classmethod
   def load_from_pretrained(cls, pretrained_model_path):
-    classifier = cls(None)
+    classifier = cls()
     classifier.model = BertForSequenceClassification.from_pretrained(pretrained_model_path)
     classifier.tokenizer = BertTokenizer.from_pretrained(pretrained_model_path)
     

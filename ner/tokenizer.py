@@ -9,9 +9,9 @@ def split_train_test(df):
 def tokenize_dataset(sentences_1 , sentences_2, labels,tokenizer, max_length=512):
   input_ids = []
   attention_masks = []
-  for sent in enumerate(sentences_1):
+  for sent1, sent2 in zip(sentences_1, sentences_2):
       encoded_dict = tokenizer.encode_plus(
-                          sent[1],sentences_2[sent[0]],                      # Sentence to encode.
+                          sent1,sent2,                      # Sentence to encode.
                           add_special_tokens = True, # Add '[CLS]' and '[SEP]'
                           max_length = max_length,           # Pad & truncate all sentences.
                           pad_to_max_length = True,
