@@ -2,7 +2,7 @@ import torch
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 from torch.utils.data import TensorDataset, random_split
 
-from tokenizer import split_train_test, tokenize_dataset
+from tokenizer import *
 
 from transformers import BertForSequenceClassification, AdamW, BertConfig
 from transformers import get_linear_schedule_with_warmup
@@ -227,4 +227,10 @@ class SentencePairBertClassifier:
     flat_true_labels = np.concatenate(true_labels, axis=0)
     print('Test DONE.')
     return flat_true_labels, flat_predictions
+
+  def predict (self, sentences_1 , sentences_2):
+    flat_true_labels, flat_predictions = self.test(self, sentences_1 , sentences_2, [0 for i in range(len(sentences_1))])
+    return flat_predictions[0]
+
+
     

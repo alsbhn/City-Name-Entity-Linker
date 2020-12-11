@@ -24,3 +24,4 @@ def tokenize_dataset(sentences_1 , sentences_2, labels,tokenizer, max_length=512
   attention_masks = torch.cat(attention_masks, dim=0)
   labels = torch.tensor(labels)
   return input_ids, attention_masks, labels
+
