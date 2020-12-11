@@ -229,7 +229,7 @@ class SentencePairBertClassifier:
     return flat_true_labels, flat_predictions
 
   def predict (self, sentences_1 , sentences_2):
-    flat_true_labels, flat_predictions = self.test(self, [sentences_1] , [sentences_2], [0])
+    flat_true_labels, flat_predictions = self.test([sentences_1] , [sentences_2], [0])
     return flat_predictions[0]
 
 
