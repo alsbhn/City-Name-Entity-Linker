@@ -1,7 +1,7 @@
 import streamlit as st
 import ast
 
-from annotation.database import initiate_database, import_data, load_data, update_data , tags_read, tags_write, city_read, update_data_city
+from annotation.database import initiate_database, import_data, load_data, update_data , tags_read, tags_write, city_read, update_data_city, filtered_table
 from annotation.style import clean_t, text_box
 
 def annotation_page(news, engine):

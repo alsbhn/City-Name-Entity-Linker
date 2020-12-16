@@ -1,4 +1,6 @@
 import pandas as pd
+import ast
+import re
 
 # import libraries for working with database
 from sqlalchemy import create_engine
@@ -14,6 +16,8 @@ def initiate_database():
     meta = MetaData()
     news = Table('news', meta, Column('id', Integer, primary_key=True) , Column('city', String),Column('url', String),
     Column('text', String),Column('title', String),Column('dataset', String), Column('labels',String), Column('annot_city', String))
+    #news_filtered = Table('news', meta, Column('id', Integer, primary_key=True) , Column('city', String),Column('url', String),
+    #Column('text', String),Column('title', String),Column('dataset', String), Column('labels',String), Column('annot_city', String))
     meta.create_all(engine)
     return engine, db, meta, news
 
@@ -35,6 +39,18 @@ def load_data(x, news, engine):
     data = {'id':id,'city':city,'url':url,'text':text,'title':title,'dataset':dataset,'labels':labels,'annot_city':annot_city}
     conn.close()
     return data
+
+def filtered_table(filters , news, engine):
+    s = news.select(news.c.labels.contains (filters))
+    conn = engine.connect()
+    result = conn.execute(s)
+    data_out=[]
+    for row in result:
+        data = row
+        (id,city,url,text,title,dataset,labels,annot_city)=data
+        data_out.append({'id':id,'city':city,'url':url,'text':text,'title':title,'dataset':dataset,'labels':labels,'annot_city':annot_city})
+    conn.close()
+    return data_out
 
 def update_data(x,upd, news, engine):
     stmt = news.update().where(news.c.id == x).values(labels= upd)
