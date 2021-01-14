@@ -11,7 +11,7 @@ def import_news_page(news, engine):
     # city
     annot_city = st.sidebar.multiselect('city', city_list,key=2)
     # dataset type
-    dataset_type = st.sidebar.multiselect('dataset', ['manual_google_by_location'],key=3, default=['manual_google_by_location'])
+    dataset_type = st.sidebar.multiselect('dataset', ['manual_google_by_location', 'manual_google_crime_news'],key=3, default=['manual_google_crime_news'])
     
     if st.checkbox ('Scrape'):
         

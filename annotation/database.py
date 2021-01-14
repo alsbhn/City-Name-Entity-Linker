@@ -52,6 +52,18 @@ def filtered_table(filters , news, engine):
     conn.close()
     return data_out
 
+def filtered_table_city(filters , news, engine):
+    s = news.select(news.c.annot_city.contains (filters))
+    conn = engine.connect()
+    result = conn.execute(s)
+    data_out=[]
+    for row in result:
+        data = row
+        (id,city,url,text,title,dataset,labels,annot_city)=data
+        data_out.append({'id':id,'city':city,'url':url,'text':text,'title':title,'dataset':dataset,'labels':labels,'annot_city':annot_city})
+    conn.close()
+    return data_out
+
 def update_data(x,upd, news, engine):
     stmt = news.update().where(news.c.id == x).values(labels= upd)
     conn = engine.connect()

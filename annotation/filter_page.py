@@ -1,18 +1,27 @@
 import streamlit as st
 import ast
 
-from annotation.database import initiate_database, import_data, load_data, update_data , tags_read, tags_write, city_read, update_data_city, filtered_table
+from annotation.database import initiate_database, import_data, load_data, update_data , tags_read, tags_write, city_read, update_data_city, filtered_table, filtered_table_city
 from annotation.style import clean_t, text_box
 
 def filter_page(news, engine):
     tag_list = tags_read()
     city_list = city_read()
     
-    filters = st.multiselect('Filters', tag_list)
+    filter_by = st.radio ('Filter by:',('label','city'))
+    
+    if filter_by == 'label':
+        filters = st.multiselect('Filters', tag_list)
+    elif filter_by == 'city':
+        filters = st.multiselect('Filters', city_list)
     
     if st.checkbox('filter'):
-        filtered_data = filtered_table(f"'{filters[0]}'" ,news, engine)
-        y = st.sidebar.number_input(label='Number',value=1 ,min_value=1,max_value=len(filtered_data) ,step=1)
+        if filter_by == 'label':
+            filtered_data = filtered_table(f"'{filters[0]}'" ,news, engine)
+        elif filter_by == 'city':
+            filtered_data = filtered_table_city(f"'{filters[0]}'" ,news, engine)
+        
+        y = st.sidebar.number_input(label='Number',value=0 ,min_value=0,max_value=len(filtered_data) ,step=1)
         st.write('Total number: ', len(filtered_data))
         x = filtered_data[y]['id']
         data = load_data(x, news, engine)

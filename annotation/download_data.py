@@ -28,17 +28,18 @@ def get_database(start,end, news, engine):
 #### Download Data Page ####
 def download_data_page(news, engine):
     start = st.number_input(label='Start index',value=1 ,min_value=1,max_value=10000 ,step=1)
-    end = st.number_input(label='Start index',value=10 ,min_value=2,max_value=10000 ,step=1)
+    end = st.number_input(label='End index',value=10 ,min_value=2,max_value=10000 ,step=1)
+    file_name = st.text_input(label='File name') 
     if st.button(label='Produce Data',key='producedata'):
         database = get_database(start,end, news, engine)
         st.markdown(get_table_download_link(database), unsafe_allow_html=True)
 
-    if st.button('test'):
+    if st.button('json'):
         database = []
         for y in range(start,end+1):
             d = load_data(y, news, engine)
             database.append(d)
         #st.write(database)
-        with open ('C:/Users/alisobhani/Desktop/crime paper/city_crime/annot_data/data3.json','w') as f:
+        with open (f'C:/Users/alisobhani/Desktop/crime paper/city_crime/annot_data/{file_name}.json','w') as f:
             json.dump(database,f)
         st.write ('Done!')
