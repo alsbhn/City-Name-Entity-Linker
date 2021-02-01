@@ -83,7 +83,7 @@ class SentencePairBertClassifier:
       classifier.model.cuda()
     return classifier
 
-  def train(self, sentences_1 , sentences_2, labels, epochs):
+  def train(self, sentences_1 , sentences_2, labels, epochs,save_in_loop, save_folder):
     
     self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
     input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, self.tokenizer, max_length=512)
@@ -171,6 +171,11 @@ class SentencePairBertClassifier:
                 'Validation Time': validation_time
             }
         )
+        
+        # save model
+        if save_in_loop:
+          print ('saving the model ...')
+          self.save_model(save_folder,f"biclassifier_{epoch_i + 1}")
 
     print("")
     print("Training complete!")
