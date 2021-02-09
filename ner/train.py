@@ -175,7 +175,7 @@ class SentencePairBertClassifier:
         # save model
         if save_in_loop:
           print ('saving the model ...')
-          self.save_model(save_folder,f"biclassifier_{epoch_i + 1}")
+          self.save_model(save_folder,f"ner_{epoch_i + 1}")
 
     print("")
     print("Training complete!")
