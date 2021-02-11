@@ -98,15 +98,17 @@ class SentencePairBertClassifier:
       print('{:>5,} validation samples'.format(val_size))
 
       with open (os.path.join(save_folder, 'train_dataset.json'), 'w') as f:
-        json.dump(train_dataset,f)
+        json.dump({'data': train_dataset},f)
       with open (os.path.join(save_folder, 'val_dataset.json'), 'w') as f:
-        json.dump(val_dataset,f)
+        json.dump({'data' :val_dataset},f)
 
     else:
       with open (os.path.join(save_folder, 'train_dataset.json')) as f:
         train_dataset = json.load(f)
+        train_dataset = train_dataset ['data']
       with open (os.path.join(save_folder, 'val_dataset.json')) as f:
         val_dataset = json.load(f)
+        val_dataset = val_dataset ['data']
 
     # Divide up our training set to use 90% for training and 10% for validation.
     
