@@ -13,6 +13,7 @@ import time
 import datetime
 import random
 import os
+import json
 
 seed_val = 42
 random.seed(seed_val)
@@ -83,18 +84,32 @@ class SentencePairBertClassifier:
       classifier.model.cuda()
     return classifier
 
-  def train(self, sentences_1 , sentences_2, labels, epochs,save_in_loop, save_folder):
+  def train(self, sentences_1 , sentences_2, labels,start_epoch, epochs,save_in_loop, save_folder, save_model_name, preprocess = False):
     
     self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
-    input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, self.tokenizer, max_length=512)
+    
+    if preprocess:
+      input_ids, attention_masks, labels = tokenize_dataset(sentences_1 , sentences_2, labels, self.tokenizer, max_length=512)
+      dataset = TensorDataset(input_ids, attention_masks, labels)
+      train_size = int(0.9 * len(dataset))
+      val_size = len(dataset) - train_size
+      train_dataset, val_dataset = random_split(dataset, [train_size, val_size])
+      print('{:>5,} training samples'.format(train_size))
+      print('{:>5,} validation samples'.format(val_size))
+
+      with open (os.path.join(save_folder, 'train_dataset.json'), 'w') as f:
+        json.dump(train_dataset,f)
+      with open (os.path.join(save_folder, 'val_dataset.json'), 'w') as f:
+        json.dump(val_dataset,f)
+
+    else:
+      with open (os.path.join(save_folder, 'train_dataset.json')) as f:
+        train_dataset = json.load(f)
+      with open (os.path.join(save_folder, 'val_dataset.json')) as f:
+        val_dataset = json.load(f)
 
     # Divide up our training set to use 90% for training and 10% for validation.
-    dataset = TensorDataset(input_ids, attention_masks, labels)
-    train_size = int(0.9 * len(dataset))
-    val_size = len(dataset) - train_size
-    train_dataset, val_dataset = random_split(dataset, [train_size, val_size])
-    print('{:>5,} training samples'.format(train_size))
-    print('{:>5,} validation samples'.format(val_size))
+    
 
     self.train_dataloader, self.validation_dataloader = build_data_loader(train_dataset, val_dataset, batch_size = 8)
     
@@ -103,7 +118,7 @@ class SentencePairBertClassifier:
 
     self.training_stats = []
     total_t0 = time.time()
-    for epoch_i in range(0, epochs):
+    for epoch_i in range(start_epoch-1, epochs):
         print("")
         print('======== Epoch {:} / {:} ========'.format(epoch_i + 1, epochs))
         print('Training...')
@@ -175,7 +190,7 @@ class SentencePairBertClassifier:
         # save model
         if save_in_loop:
           print ('saving the model ...')
-          self.save_model(save_folder,f"ner_{epoch_i + 1}")
+          self.save_model(save_folder,f"{save_model_name}_{epoch_i + 1}")
 
     print("")
     print("Training complete!")
